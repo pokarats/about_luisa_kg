@@ -1,0 +1,333 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "Dibbets"
+    },
+    {
+      "id": "perspective  characteristics"
+    },
+    {
+      "id": "perspective  photograph"
+    },
+    {
+      "id": "discrepancy"
+    },
+    {
+      "id": "what"
+    },
+    {
+      "id": "image"
+    },
+    {
+      "id": "it"
+    },
+    {
+      "id": "car radios"
+    },
+    {
+      "id": "decade later Hans Peter Feldmann"
+    },
+    {
+      "id": "we"
+    },
+    {
+      "id": "e.g. when  he"
+    },
+    {
+      "id": "good car music"
+    }
+  ],
+  "links": [
+    {
+      "edge": "working on",
+      "source": "Dibbets",
+      "target": "perspective  characteristics",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "Dibbets",
+      "target": "perspective  photograph",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "Dibbets",
+      "target": "discrepancy",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "Dibbets",
+      "target": "what",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "Dibbets",
+      "target": "what",
+      "key": 1
+    },
+    {
+      "edge": "working on",
+      "source": "Dibbets",
+      "target": "image",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "Dibbets",
+      "target": "it",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "Dibbets",
+      "target": "car radios",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "decade later Hans Peter Feldmann",
+      "target": "perspective  characteristics",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "decade later Hans Peter Feldmann",
+      "target": "perspective  photograph",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "decade later Hans Peter Feldmann",
+      "target": "discrepancy",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "decade later Hans Peter Feldmann",
+      "target": "what",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "decade later Hans Peter Feldmann",
+      "target": "what",
+      "key": 1
+    },
+    {
+      "edge": "working on",
+      "source": "decade later Hans Peter Feldmann",
+      "target": "image",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "decade later Hans Peter Feldmann",
+      "target": "it",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "decade later Hans Peter Feldmann",
+      "target": "car radios",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "perspective  characteristics",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "perspective  characteristics",
+      "key": 1
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "perspective  photograph",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "perspective  photograph",
+      "key": 1
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "discrepancy",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "discrepancy",
+      "key": 1
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "what",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "what",
+      "key": 1
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "what",
+      "key": 2
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "what",
+      "key": 3
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "image",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "image",
+      "key": 1
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "it",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "it",
+      "key": 1
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "car radios",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "we",
+      "target": "car radios",
+      "key": 1
+    },
+    {
+      "edge": "working on",
+      "source": "e.g. when  he",
+      "target": "perspective  characteristics",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "e.g. when  he",
+      "target": "perspective  photograph",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "e.g. when  he",
+      "target": "discrepancy",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "e.g. when  he",
+      "target": "what",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "e.g. when  he",
+      "target": "what",
+      "key": 1
+    },
+    {
+      "edge": "working on",
+      "source": "e.g. when  he",
+      "target": "image",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "e.g. when  he",
+      "target": "it",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "e.g. when  he",
+      "target": "car radios",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "good car music",
+      "target": "perspective  characteristics",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "good car music",
+      "target": "perspective  photograph",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "good car music",
+      "target": "discrepancy",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "good car music",
+      "target": "what",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "good car music",
+      "target": "what",
+      "key": 1
+    },
+    {
+      "edge": "working on",
+      "source": "good car music",
+      "target": "image",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "good car music",
+      "target": "it",
+      "key": 0
+    },
+    {
+      "edge": "working on",
+      "source": "good car music",
+      "target": "car radios",
+      "key": 0
+    }
+  ]
+}

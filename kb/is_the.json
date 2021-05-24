@@ -1,0 +1,378 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "Closely  elimination"
+    },
+    {
+      "id": "Closely  corporeal"
+    },
+    {
+      "id": "political  art"
+    },
+    {
+      "id": "photographic  I"
+    },
+    {
+      "id": "analysis"
+    },
+    {
+      "id": "individual  groups"
+    },
+    {
+      "id": "photographic  works"
+    },
+    {
+      "id": "medium specific  concept"
+    },
+    {
+      "id": "two dimensional  photograph"
+    },
+    {
+      "id": "two dimensional  times"
+    },
+    {
+      "id": "two dimensional  it"
+    },
+    {
+      "id": "contemporary sociopolitical  questioning"
+    },
+    {
+      "id": "contemporary sociopolitical  that"
+    },
+    {
+      "id": "how  artist"
+    },
+    {
+      "id": "how  this"
+    },
+    {
+      "id": "contemporary sociopolitical  approach"
+    },
+    {
+      "id": "moving  hand"
+    },
+    {
+      "id": "human hand  glove"
+    },
+    {
+      "id": "rather alluring  figures"
+    },
+    {
+      "id": "glossy aesthetic  mode"
+    },
+    {
+      "id": "artificial  life"
+    },
+    {
+      "id": "human hand  scene"
+    },
+    {
+      "id": "thus  it"
+    }
+  ],
+  "links": [
+    {
+      "edge": "is the",
+      "source": "Closely  elimination",
+      "target": "Closely  corporeal",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "Closely  elimination",
+      "target": "political  art",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "photographic  I",
+      "target": "analysis",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "photographic  I",
+      "target": "individual  groups",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "photographic  I",
+      "target": "photographic  works",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "photographic  I",
+      "target": "medium specific  concept",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "photographic  I",
+      "target": "two dimensional  photograph",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "photographic  I",
+      "target": "two dimensional  times",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "photographic  I",
+      "target": "two dimensional  it",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "photographic  I",
+      "target": "contemporary sociopolitical  questioning",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "photographic  I",
+      "target": "contemporary sociopolitical  that",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  artist",
+      "target": "analysis",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  artist",
+      "target": "individual  groups",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  artist",
+      "target": "photographic  works",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  artist",
+      "target": "medium specific  concept",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  artist",
+      "target": "two dimensional  photograph",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  artist",
+      "target": "two dimensional  times",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  artist",
+      "target": "two dimensional  it",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  artist",
+      "target": "contemporary sociopolitical  questioning",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  artist",
+      "target": "contemporary sociopolitical  that",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  this",
+      "target": "analysis",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  this",
+      "target": "individual  groups",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  this",
+      "target": "photographic  works",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  this",
+      "target": "medium specific  concept",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  this",
+      "target": "two dimensional  photograph",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  this",
+      "target": "two dimensional  times",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  this",
+      "target": "two dimensional  it",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  this",
+      "target": "contemporary sociopolitical  questioning",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "how  this",
+      "target": "contemporary sociopolitical  that",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "analysis",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "individual  groups",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "photographic  works",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "medium specific  concept",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "two dimensional  photograph",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "two dimensional  times",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "two dimensional  it",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "contemporary sociopolitical  questioning",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "contemporary sociopolitical  that",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "moving  hand",
+      "target": "human hand  glove",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "moving  hand",
+      "target": "rather alluring  figures",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "moving  hand",
+      "target": "glossy aesthetic  mode",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "moving  hand",
+      "target": "artificial  life",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "human hand  scene",
+      "target": "human hand  glove",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "human hand  scene",
+      "target": "rather alluring  figures",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "human hand  scene",
+      "target": "glossy aesthetic  mode",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "human hand  scene",
+      "target": "artificial  life",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "thus  it",
+      "target": "human hand  glove",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "thus  it",
+      "target": "rather alluring  figures",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "thus  it",
+      "target": "glossy aesthetic  mode",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "thus  it",
+      "target": "artificial  life",
+      "key": 0
+    }
+  ]
+}

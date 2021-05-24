@@ -1,0 +1,231 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "id": ". 26 mannequins"
+    },
+    {
+      "id": "Just Avatar series"
+    },
+    {
+      "id": "department store windows"
+    },
+    {
+      "id": "basic department store motif"
+    },
+    {
+      "id": "basic department store reproduction"
+    },
+    {
+      "id": "basic smartphone camera"
+    },
+    {
+      "id": "completely different smartphone conditions"
+    },
+    {
+      "id": "completely different smartphone that"
+    },
+    {
+      "id": "photographic  image"
+    },
+    {
+      "id": "completely different smartphone creating"
+    },
+    {
+      "id": "three  groups"
+    },
+    {
+      "id": "works"
+    },
+    {
+      "id": "similarly  motif"
+    },
+    {
+      "id": "human shaped  dummies"
+    },
+    {
+      "id": "human shaped starting point"
+    },
+    {
+      "id": "human shaped starting humans"
+    },
+    {
+      "id": "digital starting environment"
+    },
+    {
+      "id": "constructed  images"
+    }
+  ],
+  "links": [
+    {
+      "edge": "serve as",
+      "source": ". 26 mannequins",
+      "target": "Just Avatar series",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": ". 26 mannequins",
+      "target": "department store windows",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": ". 26 mannequins",
+      "target": "basic department store motif",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": ". 26 mannequins",
+      "target": "basic department store reproduction",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": ". 26 mannequins",
+      "target": "basic smartphone camera",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": ". 26 mannequins",
+      "target": "completely different smartphone conditions",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": ". 26 mannequins",
+      "target": "completely different smartphone that",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": ". 26 mannequins",
+      "target": "photographic  image",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "completely different smartphone creating",
+      "target": "Just Avatar series",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "completely different smartphone creating",
+      "target": "department store windows",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "completely different smartphone creating",
+      "target": "basic department store motif",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "completely different smartphone creating",
+      "target": "basic department store reproduction",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "completely different smartphone creating",
+      "target": "basic smartphone camera",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "completely different smartphone creating",
+      "target": "completely different smartphone conditions",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "completely different smartphone creating",
+      "target": "completely different smartphone that",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "completely different smartphone creating",
+      "target": "photographic  image",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "three  groups",
+      "target": "works",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "three  groups",
+      "target": "similarly  motif",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "three  groups",
+      "target": "human shaped  dummies",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "three  groups",
+      "target": "human shaped starting point",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "three  groups",
+      "target": "human shaped starting humans",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "three  groups",
+      "target": "digital starting environment",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "constructed  images",
+      "target": "works",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "constructed  images",
+      "target": "similarly  motif",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "constructed  images",
+      "target": "human shaped  dummies",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "constructed  images",
+      "target": "human shaped starting point",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "constructed  images",
+      "target": "human shaped starting humans",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "constructed  images",
+      "target": "digital starting environment",
+      "key": 0
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "it"
+    },
+    {
+      "id": "part"
+    },
+    {
+      "id": "poison gas"
+    },
+    {
+      "id": "rapid  development"
+    },
+    {
+      "id": "aerial  reconnaissance"
+    },
+    {
+      "id": "necessary  response"
+    },
+    {
+      "id": "necessary  air"
+    },
+    {
+      "id": "necessary  trenches"
+    },
+    {
+      "id": "necessary  bulk"
+    },
+    {
+      "id": "necessary  enemy"
+    },
+    {
+      "id": "necessary  strength"
+    },
+    {
+      "id": "artillery batteries"
+    },
+    {
+      "id": "poison that"
+    },
+    {
+      "id": "necessary  positions"
+    }
+  ],
+  "links": [
+    {
+      "edge": "was in",
+      "source": "it",
+      "target": "part",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "it",
+      "target": "poison gas",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "it",
+      "target": "rapid  development",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "it",
+      "target": "aerial  reconnaissance",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "it",
+      "target": "necessary  response",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "it",
+      "target": "necessary  air",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "it",
+      "target": "necessary  trenches",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "it",
+      "target": "necessary  bulk",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "it",
+      "target": "necessary  enemy",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "it",
+      "target": "necessary  strength",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "it",
+      "target": "artillery batteries",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "poison that",
+      "target": "part",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "poison that",
+      "target": "poison gas",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "poison that",
+      "target": "rapid  development",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "poison that",
+      "target": "aerial  reconnaissance",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "poison that",
+      "target": "necessary  response",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "poison that",
+      "target": "necessary  air",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "poison that",
+      "target": "necessary  trenches",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "poison that",
+      "target": "necessary  bulk",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "poison that",
+      "target": "necessary  enemy",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "poison that",
+      "target": "necessary  strength",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "poison that",
+      "target": "artillery batteries",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "necessary  positions",
+      "target": "part",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "necessary  positions",
+      "target": "poison gas",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "necessary  positions",
+      "target": "rapid  development",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "necessary  positions",
+      "target": "aerial  reconnaissance",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "necessary  positions",
+      "target": "necessary  response",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "necessary  positions",
+      "target": "necessary  air",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "necessary  positions",
+      "target": "necessary  trenches",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "necessary  positions",
+      "target": "necessary  bulk",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "necessary  positions",
+      "target": "necessary  enemy",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "necessary  positions",
+      "target": "necessary  strength",
+      "key": 0
+    },
+    {
+      "edge": "was in",
+      "source": "necessary  positions",
+      "target": "artillery batteries",
+      "key": 0
+    }
+  ]
+}

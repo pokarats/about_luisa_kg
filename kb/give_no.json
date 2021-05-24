@@ -1,0 +1,165 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "One"
+    },
+    {
+      "id": "them"
+    },
+    {
+      "id": "precious  relics"
+    },
+    {
+      "id": "exotic  culture"
+    },
+    {
+      "id": "materials unusual  look"
+    },
+    {
+      "id": "pieces"
+    },
+    {
+      "id": "particular  conjunction"
+    },
+    {
+      "id": "particular  one"
+    },
+    {
+      "id": "so  clue"
+    },
+    {
+      "id": "possible  purpose"
+    },
+    {
+      "id": "original solid  mass"
+    },
+    {
+      "id": "materials unusual  multitude"
+    }
+  ],
+  "links": [
+    {
+      "edge": "give no",
+      "source": "One",
+      "target": "them",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "One",
+      "target": "precious  relics",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "One",
+      "target": "exotic  culture",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "One",
+      "target": "materials unusual  look",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "One",
+      "target": "pieces",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "One",
+      "target": "particular  conjunction",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "One",
+      "target": "particular  one",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "One",
+      "target": "so  clue",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "One",
+      "target": "possible  purpose",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "One",
+      "target": "original solid  mass",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "materials unusual  multitude",
+      "target": "them",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "materials unusual  multitude",
+      "target": "precious  relics",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "materials unusual  multitude",
+      "target": "exotic  culture",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "materials unusual  multitude",
+      "target": "materials unusual  look",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "materials unusual  multitude",
+      "target": "pieces",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "materials unusual  multitude",
+      "target": "particular  conjunction",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "materials unusual  multitude",
+      "target": "particular  one",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "materials unusual  multitude",
+      "target": "so  clue",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "materials unusual  multitude",
+      "target": "possible  purpose",
+      "key": 0
+    },
+    {
+      "edge": "give no",
+      "source": "materials unusual  multitude",
+      "target": "original solid  mass",
+      "key": 0
+    }
+  ]
+}

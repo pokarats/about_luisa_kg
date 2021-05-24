@@ -1,0 +1,165 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "Sven Beckstette"
+    },
+    {
+      "id": "rightly  attention"
+    },
+    {
+      "id": "rightly  way"
+    },
+    {
+      "id": "here  perspectives"
+    },
+    {
+      "id": "then  images"
+    },
+    {
+      "id": "then  way"
+    },
+    {
+      "id": "known  reality"
+    },
+    {
+      "id": "geometric abstract  compositions"
+    },
+    {
+      "id": "that  Clement"
+    },
+    {
+      "id": "that  details"
+    }
+  ],
+  "links": [
+    {
+      "edge": "edited the",
+      "source": "Sven Beckstette",
+      "target": "rightly  attention",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "Sven Beckstette",
+      "target": "rightly  way",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "Sven Beckstette",
+      "target": "here  perspectives",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "Sven Beckstette",
+      "target": "then  images",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "Sven Beckstette",
+      "target": "then  way",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "Sven Beckstette",
+      "target": "known  reality",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "Sven Beckstette",
+      "target": "geometric abstract  compositions",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  Clement",
+      "target": "rightly  attention",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  Clement",
+      "target": "rightly  way",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  Clement",
+      "target": "here  perspectives",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  Clement",
+      "target": "then  images",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  Clement",
+      "target": "then  way",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  Clement",
+      "target": "known  reality",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  Clement",
+      "target": "geometric abstract  compositions",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  details",
+      "target": "rightly  attention",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  details",
+      "target": "rightly  way",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  details",
+      "target": "here  perspectives",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  details",
+      "target": "then  images",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  details",
+      "target": "then  way",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  details",
+      "target": "known  reality",
+      "key": 0
+    },
+    {
+      "edge": "edited the",
+      "source": "that  details",
+      "target": "geometric abstract  compositions",
+      "key": 0
+    }
+  ]
+}

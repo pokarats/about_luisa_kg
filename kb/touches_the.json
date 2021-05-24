@@ -1,0 +1,291 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "Durants paralel"
+    },
+    {
+      "id": "symbolic historian  comparison"
+    },
+    {
+      "id": "symbolic historian  idea"
+    },
+    {
+      "id": "symbolic historian  Simpson"
+    },
+    {
+      "id": "only  students"
+    },
+    {
+      "id": "only Kent State"
+    },
+    {
+      "id": "only Vietnam protest"
+    },
+    {
+      "id": "many Vietnam statements"
+    },
+    {
+      "id": "many Vietnam entropy"
+    },
+    {
+      "id": "many Vietnam 1960s"
+    },
+    {
+      "id": "when Vietnam change"
+    },
+    {
+      "id": "sound"
+    },
+    {
+      "id": "wood"
+    },
+    {
+      "id": "sculpture"
+    },
+    {
+      "id": "when Vietnam Durant"
+    },
+    {
+      "id": "that"
+    }
+  ],
+  "links": [
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "symbolic historian  comparison",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "symbolic historian  idea",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "symbolic historian  Simpson",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "only  students",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "only Kent State",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "only Vietnam protest",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "many Vietnam statements",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "many Vietnam entropy",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "many Vietnam 1960s",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "when Vietnam change",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "sound",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "wood",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "sculpture",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "symbolic historian  comparison",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "symbolic historian  idea",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "symbolic historian  Simpson",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "only  students",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "only Kent State",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "only Vietnam protest",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "many Vietnam statements",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "many Vietnam entropy",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "many Vietnam 1960s",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "when Vietnam change",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "sound",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "wood",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "sculpture",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "that",
+      "target": "symbolic historian  comparison",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "that",
+      "target": "symbolic historian  idea",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "that",
+      "target": "symbolic historian  Simpson",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "that",
+      "target": "only  students",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "that",
+      "target": "only Kent State",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "that",
+      "target": "only Vietnam protest",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "that",
+      "target": "many Vietnam statements",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "that",
+      "target": "many Vietnam entropy",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "that",
+      "target": "many Vietnam 1960s",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "that",
+      "target": "when Vietnam change",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "that",
+      "target": "sound",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "that",
+      "target": "wood",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "that",
+      "target": "sculpture",
+      "key": 0
+    }
+  ]
+}

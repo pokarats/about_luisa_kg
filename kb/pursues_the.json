@@ -1,0 +1,180 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "Clement"
+    },
+    {
+      "id": "status quo"
+    },
+    {
+      "id": "digital image production"
+    },
+    {
+      "id": "digital image creations"
+    },
+    {
+      "id": "only  question"
+    },
+    {
+      "id": "only  extinction"
+    },
+    {
+      "id": "only analogue photography"
+    },
+    {
+      "id": "also analogue debate"
+    },
+    {
+      "id": "also analogue function"
+    },
+    {
+      "id": "also analogue image"
+    },
+    {
+      "id": "also analogue context"
+    },
+    {
+      "id": "also analogue digitization"
+    },
+    {
+      "id": "digital image she"
+    }
+  ],
+  "links": [
+    {
+      "edge": "pursues the",
+      "source": "Clement",
+      "target": "status quo",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "Clement",
+      "target": "digital image production",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "Clement",
+      "target": "digital image creations",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "Clement",
+      "target": "only  question",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "Clement",
+      "target": "only  extinction",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "Clement",
+      "target": "only analogue photography",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "Clement",
+      "target": "also analogue debate",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "Clement",
+      "target": "also analogue function",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "Clement",
+      "target": "also analogue image",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "Clement",
+      "target": "also analogue context",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "Clement",
+      "target": "also analogue digitization",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "digital image she",
+      "target": "status quo",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "digital image she",
+      "target": "digital image production",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "digital image she",
+      "target": "digital image creations",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "digital image she",
+      "target": "only  question",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "digital image she",
+      "target": "only  extinction",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "digital image she",
+      "target": "only analogue photography",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "digital image she",
+      "target": "also analogue debate",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "digital image she",
+      "target": "also analogue function",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "digital image she",
+      "target": "also analogue image",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "digital image she",
+      "target": "also analogue context",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "digital image she",
+      "target": "also analogue digitization",
+      "key": 0
+    }
+  ]
+}

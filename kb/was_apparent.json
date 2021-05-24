@@ -1,0 +1,345 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "paintings"
+    },
+    {
+      "id": "validity  resonance"
+    },
+    {
+      "id": "twenty first  century"
+    },
+    {
+      "id": "twenty first  February"
+    },
+    {
+      "id": "United Nations headquarters"
+    },
+    {
+      "id": "New York"
+    },
+    {
+      "id": "US State"
+    },
+    {
+      "id": "US time"
+    },
+    {
+      "id": "UNMOVIC weapons inspectors"
+    },
+    {
+      "id": "international UNMOVIC weapons media"
+    },
+    {
+      "id": "international UNMOVIC weapons strategies"
+    },
+    {
+      "id": "possible UNMOVIC weapons war"
+    },
+    {
+      "id": "possible UNMOVIC weapons Iraq"
+    },
+    {
+      "id": "continuing"
+    },
+    {
+      "id": "2003 when  tapestry"
+    },
+    {
+      "id": "Colin Powell"
+    }
+  ],
+  "links": [
+    {
+      "edge": "was apparent",
+      "source": "paintings",
+      "target": "validity  resonance",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "paintings",
+      "target": "twenty first  century",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "paintings",
+      "target": "twenty first  February",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "paintings",
+      "target": "United Nations headquarters",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "paintings",
+      "target": "New York",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "paintings",
+      "target": "US State",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "paintings",
+      "target": "US time",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "paintings",
+      "target": "UNMOVIC weapons inspectors",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "paintings",
+      "target": "international UNMOVIC weapons media",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "paintings",
+      "target": "international UNMOVIC weapons strategies",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "paintings",
+      "target": "possible UNMOVIC weapons war",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "paintings",
+      "target": "possible UNMOVIC weapons Iraq",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "continuing",
+      "target": "validity  resonance",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "continuing",
+      "target": "twenty first  century",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "continuing",
+      "target": "twenty first  February",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "continuing",
+      "target": "United Nations headquarters",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "continuing",
+      "target": "New York",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "continuing",
+      "target": "US State",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "continuing",
+      "target": "US time",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "continuing",
+      "target": "UNMOVIC weapons inspectors",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "continuing",
+      "target": "international UNMOVIC weapons media",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "continuing",
+      "target": "international UNMOVIC weapons strategies",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "continuing",
+      "target": "possible UNMOVIC weapons war",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "continuing",
+      "target": "possible UNMOVIC weapons Iraq",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "2003 when  tapestry",
+      "target": "validity  resonance",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "2003 when  tapestry",
+      "target": "twenty first  century",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "2003 when  tapestry",
+      "target": "twenty first  February",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "2003 when  tapestry",
+      "target": "United Nations headquarters",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "2003 when  tapestry",
+      "target": "New York",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "2003 when  tapestry",
+      "target": "US State",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "2003 when  tapestry",
+      "target": "US time",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "2003 when  tapestry",
+      "target": "UNMOVIC weapons inspectors",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "2003 when  tapestry",
+      "target": "international UNMOVIC weapons media",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "2003 when  tapestry",
+      "target": "international UNMOVIC weapons strategies",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "2003 when  tapestry",
+      "target": "possible UNMOVIC weapons war",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "2003 when  tapestry",
+      "target": "possible UNMOVIC weapons Iraq",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "Colin Powell",
+      "target": "validity  resonance",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "Colin Powell",
+      "target": "twenty first  century",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "Colin Powell",
+      "target": "twenty first  February",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "Colin Powell",
+      "target": "United Nations headquarters",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "Colin Powell",
+      "target": "New York",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "Colin Powell",
+      "target": "US State",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "Colin Powell",
+      "target": "US time",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "Colin Powell",
+      "target": "UNMOVIC weapons inspectors",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "Colin Powell",
+      "target": "international UNMOVIC weapons media",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "Colin Powell",
+      "target": "international UNMOVIC weapons strategies",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "Colin Powell",
+      "target": "possible UNMOVIC weapons war",
+      "key": 0
+    },
+    {
+      "edge": "was apparent",
+      "source": "Colin Powell",
+      "target": "possible UNMOVIC weapons Iraq",
+      "key": 0
+    }
+  ]
+}

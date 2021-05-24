@@ -1,0 +1,1556 @@
+05/22/2021 09:47:24 PM __main__ - INFO: ---------START----------
+05/22/2021 09:47:24 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 09:47:24 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 09:47:24 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 10	iterations: 1
+05/22/2021 09:47:24 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 09:47:24 PM __main__ - INFO: pre-processing steps
+05/22/2021 09:47:24 PM __main__ - INFO: corpus has: 51 documents
+
+05/22/2021 09:47:24 PM __main__ - INFO: Initializing...
+05/22/2021 09:47:24 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 09:47:24 PM __main__ - INFO: Executed 'gibbs_sampling' in 0.2739 secs
+05/22/2021 09:47:24 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 09:47:24 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 09:47:24 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 09:57:16 PM __main__ - INFO: ---------START----------
+05/22/2021 09:57:16 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 09:57:16 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 09:57:16 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 10	iterations: 1
+05/22/2021 09:57:16 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 09:57:16 PM __main__ - INFO: pre-processing steps
+05/22/2021 09:57:16 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436
+vocab size: 2157
+
+05/22/2021 09:57:16 PM __main__ - INFO: Initializing...
+05/22/2021 09:57:16 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 09:57:16 PM __main__ - INFO: Executed 'gibbs_sampling' in 0.1953 secs
+05/22/2021 09:57:16 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 09:57:16 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 09:57:16 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 09:58:10 PM __main__ - INFO: ---------START----------
+05/22/2021 09:58:10 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 09:58:10 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 09:58:10 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 10	iterations: 1
+05/22/2021 09:58:10 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 09:58:10 PM __main__ - INFO: pre-processing steps
+05/22/2021 09:58:10 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 09:58:10 PM __main__ - INFO: Initializing...
+05/22/2021 09:58:10 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 09:58:10 PM __main__ - INFO: Executed 'gibbs_sampling' in 0.2186 secs
+05/22/2021 09:58:10 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 09:58:10 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 09:58:10 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:01:40 PM __main__ - INFO: ---------START----------
+05/22/2021 10:01:40 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:01:40 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:01:40 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 10	iterations: 10
+05/22/2021 10:01:40 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:01:40 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:01:40 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:01:40 PM __main__ - INFO: Initializing...
+05/22/2021 10:01:40 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:01:42 PM __main__ - INFO: Executed 'gibbs_sampling' in 2.2871 secs
+05/22/2021 10:01:42 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:01:42 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:01:42 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:02:19 PM __main__ - INFO: ---------START----------
+05/22/2021 10:02:19 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:02:19 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:02:19 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 10	iterations: 50
+05/22/2021 10:02:19 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:02:19 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:02:19 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:02:19 PM __main__ - INFO: Initializing...
+05/22/2021 10:02:19 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:02:28 PM __main__ - INFO: Executed 'gibbs_sampling' in 9.4966 secs
+05/22/2021 10:02:28 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:02:28 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:02:28 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:02:37 PM __main__ - INFO: ---------START----------
+05/22/2021 10:02:37 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:02:37 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:02:37 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 10	iterations: 100
+05/22/2021 10:02:37 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:02:37 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:02:37 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:02:37 PM __main__ - INFO: Initializing...
+05/22/2021 10:02:37 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:02:56 PM __main__ - INFO: Executed 'gibbs_sampling' in 19.2495 secs
+05/22/2021 10:02:56 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:02:56 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:02:56 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:04:48 PM __main__ - INFO: ---------START----------
+05/22/2021 10:04:48 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:04:48 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:04:48 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 10	iterations: 200
+05/22/2021 10:04:48 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:04:48 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:04:48 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:04:48 PM __main__ - INFO: Initializing...
+05/22/2021 10:04:48 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:05:28 PM __main__ - INFO: Executed 'gibbs_sampling' in 39.4422 secs
+05/22/2021 10:05:28 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:05:28 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:05:28 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:08:59 PM __main__ - INFO: ---------START----------
+05/22/2021 10:08:59 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:08:59 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:08:59 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 10	iterations: 300
+05/22/2021 10:08:59 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:08:59 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:08:59 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:08:59 PM __main__ - INFO: Initializing...
+05/22/2021 10:08:59 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:09:57 PM __main__ - INFO: Executed 'gibbs_sampling' in 58.1784 secs
+05/22/2021 10:09:57 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:09:57 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:09:57 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:09:58 PM __main__ - INFO: ---------START----------
+05/22/2021 10:09:58 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:09:58 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:09:58 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 10	iterations: 400
+05/22/2021 10:09:58 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:09:58 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:09:58 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:09:58 PM __main__ - INFO: Initializing...
+05/22/2021 10:09:58 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:11:14 PM __main__ - INFO: Executed 'gibbs_sampling' in 76.0646 secs
+05/22/2021 10:11:14 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:11:14 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:11:14 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:11:15 PM __main__ - INFO: ---------START----------
+05/22/2021 10:11:15 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:11:15 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:11:15 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 10	iterations: 500
+05/22/2021 10:11:15 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:11:15 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:11:15 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:11:15 PM __main__ - INFO: Initializing...
+05/22/2021 10:11:15 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:12:53 PM __main__ - INFO: Executed 'gibbs_sampling' in 97.3955 secs
+05/22/2021 10:12:53 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:12:53 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:12:53 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:20:55 PM __main__ - INFO: ---------START----------
+05/22/2021 10:20:55 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:20:55 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:20:55 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 5	iterations: 1
+05/22/2021 10:20:55 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:20:55 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:20:55 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:20:55 PM __main__ - INFO: Initializing...
+05/22/2021 10:20:55 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:20:55 PM __main__ - INFO: Executed 'gibbs_sampling' in 0.2078 secs
+05/22/2021 10:20:55 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:20:55 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:20:55 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:20:55 PM __main__ - INFO: ---------START----------
+05/22/2021 10:20:55 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:20:55 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:20:55 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 5	iterations: 10
+05/22/2021 10:20:55 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:20:55 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:20:55 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:20:55 PM __main__ - INFO: Initializing...
+05/22/2021 10:20:55 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:20:57 PM __main__ - INFO: Executed 'gibbs_sampling' in 1.8606 secs
+05/22/2021 10:20:57 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:20:57 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:20:57 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:20:57 PM __main__ - INFO: ---------START----------
+05/22/2021 10:20:57 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:20:57 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:20:57 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 5	iterations: 50
+05/22/2021 10:20:57 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:20:57 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:20:57 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:20:57 PM __main__ - INFO: Initializing...
+05/22/2021 10:20:57 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:21:09 PM __main__ - INFO: Executed 'gibbs_sampling' in 11.4601 secs
+05/22/2021 10:21:09 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:21:09 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:21:09 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:21:09 PM __main__ - INFO: ---------START----------
+05/22/2021 10:21:09 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:21:09 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:21:09 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 5	iterations: 100
+05/22/2021 10:21:09 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:21:09 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:21:09 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:21:09 PM __main__ - INFO: Initializing...
+05/22/2021 10:21:09 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:21:28 PM __main__ - INFO: Executed 'gibbs_sampling' in 18.5221 secs
+05/22/2021 10:21:28 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:21:28 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:21:28 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:21:28 PM __main__ - INFO: ---------START----------
+05/22/2021 10:21:28 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:21:28 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:21:28 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 5	iterations: 200
+05/22/2021 10:21:28 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:21:28 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:21:28 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:21:28 PM __main__ - INFO: Initializing...
+05/22/2021 10:21:28 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:22:00 PM __main__ - INFO: Executed 'gibbs_sampling' in 32.1521 secs
+05/22/2021 10:22:00 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:22:00 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:22:00 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:22:01 PM __main__ - INFO: ---------START----------
+05/22/2021 10:22:01 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:22:01 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:22:01 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 5	iterations: 300
+05/22/2021 10:22:01 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:22:01 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:22:01 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:22:01 PM __main__ - INFO: Initializing...
+05/22/2021 10:22:01 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:22:59 PM __main__ - INFO: Executed 'gibbs_sampling' in 58.7915 secs
+05/22/2021 10:22:59 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:22:59 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:22:59 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:23:00 PM __main__ - INFO: ---------START----------
+05/22/2021 10:23:00 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:23:00 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:23:00 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 5	iterations: 400
+05/22/2021 10:23:00 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:23:00 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:23:00 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:23:00 PM __main__ - INFO: Initializing...
+05/22/2021 10:23:00 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:24:11 PM __main__ - INFO: Executed 'gibbs_sampling' in 70.8510 secs
+05/22/2021 10:24:11 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:24:11 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:24:11 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:24:11 PM __main__ - INFO: ---------START----------
+05/22/2021 10:24:11 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:24:11 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:24:11 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.02	beta: 0.1
+number of topics: 5	iterations: 500
+05/22/2021 10:24:11 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:24:11 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:24:11 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:24:11 PM __main__ - INFO: Initializing...
+05/22/2021 10:24:11 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:25:33 PM __main__ - INFO: Executed 'gibbs_sampling' in 81.8970 secs
+05/22/2021 10:25:33 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:25:33 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:25:33 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:43:26 PM __main__ - INFO: ---------START----------
+05/22/2021 10:43:26 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:43:26 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:43:26 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 1
+05/22/2021 10:43:26 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:43:26 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:43:26 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:43:26 PM __main__ - INFO: Initializing...
+05/22/2021 10:43:26 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:43:26 PM __main__ - INFO: Executed 'gibbs_sampling' in 0.2586 secs
+05/22/2021 10:43:26 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:43:26 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:43:26 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:43:27 PM __main__ - INFO: ---------START----------
+05/22/2021 10:43:27 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:43:27 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:43:27 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 10
+05/22/2021 10:43:27 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:43:27 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:43:27 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:43:27 PM __main__ - INFO: Initializing...
+05/22/2021 10:43:27 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:43:29 PM __main__ - INFO: Executed 'gibbs_sampling' in 2.2935 secs
+05/22/2021 10:43:29 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:43:29 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:43:29 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:43:29 PM __main__ - INFO: ---------START----------
+05/22/2021 10:43:29 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:43:29 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:43:29 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 50
+05/22/2021 10:43:29 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:43:29 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:43:29 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:43:29 PM __main__ - INFO: Initializing...
+05/22/2021 10:43:29 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:43:39 PM __main__ - INFO: Executed 'gibbs_sampling' in 9.5333 secs
+05/22/2021 10:43:39 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:43:39 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:43:39 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:43:39 PM __main__ - INFO: ---------START----------
+05/22/2021 10:43:39 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:43:39 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:43:39 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 100
+05/22/2021 10:43:39 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:43:39 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:43:39 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:43:39 PM __main__ - INFO: Initializing...
+05/22/2021 10:43:39 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:43:56 PM __main__ - INFO: Executed 'gibbs_sampling' in 16.4897 secs
+05/22/2021 10:43:56 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:43:56 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:43:56 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:43:56 PM __main__ - INFO: ---------START----------
+05/22/2021 10:43:56 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:43:56 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:43:56 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 200
+05/22/2021 10:43:56 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:43:56 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:43:56 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:43:56 PM __main__ - INFO: Initializing...
+05/22/2021 10:43:56 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:44:32 PM __main__ - INFO: Executed 'gibbs_sampling' in 36.1923 secs
+05/22/2021 10:44:32 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:44:32 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:44:32 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:44:33 PM __main__ - INFO: ---------START----------
+05/22/2021 10:44:33 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:44:33 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:44:33 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 300
+05/22/2021 10:44:33 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:44:33 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:44:33 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:44:33 PM __main__ - INFO: Initializing...
+05/22/2021 10:44:33 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:45:21 PM __main__ - INFO: Executed 'gibbs_sampling' in 48.5926 secs
+05/22/2021 10:45:21 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:45:21 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:45:21 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:45:21 PM __main__ - INFO: ---------START----------
+05/22/2021 10:45:21 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:45:21 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:45:21 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 400
+05/22/2021 10:45:21 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:45:21 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:45:21 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:45:21 PM __main__ - INFO: Initializing...
+05/22/2021 10:45:22 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:46:28 PM __main__ - INFO: Executed 'gibbs_sampling' in 66.6224 secs
+05/22/2021 10:46:28 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:46:28 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:46:28 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:46:28 PM __main__ - INFO: ---------START----------
+05/22/2021 10:46:28 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:46:28 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:46:28 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 500
+05/22/2021 10:46:28 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:46:28 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:46:28 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:46:28 PM __main__ - INFO: Initializing...
+05/22/2021 10:46:28 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:47:50 PM __main__ - INFO: Executed 'gibbs_sampling' in 82.0224 secs
+05/22/2021 10:47:50 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:47:50 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:47:50 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:47:51 PM __main__ - INFO: ---------START----------
+05/22/2021 10:47:51 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:47:51 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:47:51 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 1
+05/22/2021 10:47:51 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:47:51 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:47:51 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:47:51 PM __main__ - INFO: Initializing...
+05/22/2021 10:47:51 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:47:51 PM __main__ - INFO: Executed 'gibbs_sampling' in 0.2133 secs
+05/22/2021 10:47:51 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:47:51 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:47:51 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:47:52 PM __main__ - INFO: ---------START----------
+05/22/2021 10:47:52 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:47:52 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:47:52 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 10
+05/22/2021 10:47:52 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:47:52 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:47:52 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:47:52 PM __main__ - INFO: Initializing...
+05/22/2021 10:47:52 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:47:54 PM __main__ - INFO: Executed 'gibbs_sampling' in 1.9164 secs
+05/22/2021 10:47:54 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:47:54 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:47:54 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:47:54 PM __main__ - INFO: ---------START----------
+05/22/2021 10:47:54 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:47:54 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:47:54 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 50
+05/22/2021 10:47:54 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:47:54 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:47:54 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:47:54 PM __main__ - INFO: Initializing...
+05/22/2021 10:47:54 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:48:03 PM __main__ - INFO: Executed 'gibbs_sampling' in 8.6040 secs
+05/22/2021 10:48:03 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:48:03 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:48:03 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:48:03 PM __main__ - INFO: ---------START----------
+05/22/2021 10:48:03 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:48:03 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:48:03 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 100
+05/22/2021 10:48:03 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:48:03 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:48:03 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:48:03 PM __main__ - INFO: Initializing...
+05/22/2021 10:48:03 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:48:19 PM __main__ - INFO: Executed 'gibbs_sampling' in 16.4673 secs
+05/22/2021 10:48:19 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:48:19 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:48:19 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:48:20 PM __main__ - INFO: ---------START----------
+05/22/2021 10:48:20 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:48:20 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:48:20 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 200
+05/22/2021 10:48:20 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:48:20 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:48:20 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:48:20 PM __main__ - INFO: Initializing...
+05/22/2021 10:48:20 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:48:54 PM __main__ - INFO: Executed 'gibbs_sampling' in 34.0680 secs
+05/22/2021 10:48:54 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:48:54 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:48:54 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:48:54 PM __main__ - INFO: ---------START----------
+05/22/2021 10:48:54 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:48:54 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:48:54 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 300
+05/22/2021 10:48:54 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:48:54 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:48:54 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:48:54 PM __main__ - INFO: Initializing...
+05/22/2021 10:48:54 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:49:44 PM __main__ - INFO: Executed 'gibbs_sampling' in 49.4810 secs
+05/22/2021 10:49:44 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:49:44 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:49:44 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:49:44 PM __main__ - INFO: ---------START----------
+05/22/2021 10:49:44 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:49:44 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:49:44 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 400
+05/22/2021 10:49:44 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:49:44 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:49:44 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:49:44 PM __main__ - INFO: Initializing...
+05/22/2021 10:49:44 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:50:49 PM __main__ - INFO: Executed 'gibbs_sampling' in 65.2124 secs
+05/22/2021 10:50:49 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:50:49 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:50:49 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:50:49 PM __main__ - INFO: ---------START----------
+05/22/2021 10:50:49 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:50:49 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:50:49 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 500
+05/22/2021 10:50:49 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:50:49 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:50:49 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:50:49 PM __main__ - INFO: Initializing...
+05/22/2021 10:50:49 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:52:09 PM __main__ - INFO: Executed 'gibbs_sampling' in 79.6692 secs
+05/22/2021 10:52:09 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:52:09 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:52:09 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:56:19 PM __main__ - INFO: ---------START----------
+05/22/2021 10:56:19 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:56:19 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:56:19 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 10	iterations: 1
+05/22/2021 10:56:19 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:56:19 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:56:20 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:56:20 PM __main__ - INFO: Initializing...
+05/22/2021 10:56:20 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:56:20 PM __main__ - INFO: Executed 'gibbs_sampling' in 0.2203 secs
+05/22/2021 10:56:20 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:56:20 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:56:20 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:56:20 PM __main__ - INFO: ---------START----------
+05/22/2021 10:56:20 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:56:20 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:56:20 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 10	iterations: 10
+05/22/2021 10:56:20 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:56:20 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:56:20 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:56:20 PM __main__ - INFO: Initializing...
+05/22/2021 10:56:20 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:56:22 PM __main__ - INFO: Executed 'gibbs_sampling' in 2.0048 secs
+05/22/2021 10:56:22 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:56:22 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:56:22 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:56:22 PM __main__ - INFO: ---------START----------
+05/22/2021 10:56:22 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:56:22 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:56:22 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 10	iterations: 50
+05/22/2021 10:56:22 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:56:22 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:56:22 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:56:22 PM __main__ - INFO: Initializing...
+05/22/2021 10:56:22 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:56:34 PM __main__ - INFO: Executed 'gibbs_sampling' in 11.8871 secs
+05/22/2021 10:56:34 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:56:34 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:56:34 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:56:35 PM __main__ - INFO: ---------START----------
+05/22/2021 10:56:35 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:56:35 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:56:35 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 10	iterations: 100
+05/22/2021 10:56:35 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:56:35 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:56:35 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:56:35 PM __main__ - INFO: Initializing...
+05/22/2021 10:56:35 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:56:56 PM __main__ - INFO: Executed 'gibbs_sampling' in 21.0466 secs
+05/22/2021 10:56:56 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:56:56 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:56:56 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:56:56 PM __main__ - INFO: ---------START----------
+05/22/2021 10:56:56 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:56:56 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:56:56 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 10	iterations: 200
+05/22/2021 10:56:56 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:56:56 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:56:56 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:56:56 PM __main__ - INFO: Initializing...
+05/22/2021 10:56:56 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:57:38 PM __main__ - INFO: Executed 'gibbs_sampling' in 41.8322 secs
+05/22/2021 10:57:38 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:57:38 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:57:38 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:57:38 PM __main__ - INFO: ---------START----------
+05/22/2021 10:57:38 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:57:38 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:57:38 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 10	iterations: 300
+05/22/2021 10:57:38 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:57:38 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:57:38 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:57:38 PM __main__ - INFO: Initializing...
+05/22/2021 10:57:38 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:58:39 PM __main__ - INFO: Executed 'gibbs_sampling' in 60.4012 secs
+05/22/2021 10:58:39 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:58:39 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:58:39 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:58:39 PM __main__ - INFO: ---------START----------
+05/22/2021 10:58:39 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:58:39 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:58:39 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 10	iterations: 400
+05/22/2021 10:58:39 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:58:39 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:58:39 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:58:39 PM __main__ - INFO: Initializing...
+05/22/2021 10:58:39 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 10:59:54 PM __main__ - INFO: Executed 'gibbs_sampling' in 75.0105 secs
+05/22/2021 10:59:54 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 10:59:54 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 10:59:54 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 10:59:54 PM __main__ - INFO: ---------START----------
+05/22/2021 10:59:54 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 10:59:54 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 10:59:54 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 10	iterations: 500
+05/22/2021 10:59:54 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 10:59:54 PM __main__ - INFO: pre-processing steps
+05/22/2021 10:59:54 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 10:59:54 PM __main__ - INFO: Initializing...
+05/22/2021 10:59:54 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:01:30 PM __main__ - INFO: Executed 'gibbs_sampling' in 96.0093 secs
+05/22/2021 11:01:30 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:01:30 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:01:30 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:01:31 PM __main__ - INFO: ---------START----------
+05/22/2021 11:01:31 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:01:31 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:01:31 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 10	iterations: 1
+05/22/2021 11:01:31 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:01:31 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:01:31 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:01:31 PM __main__ - INFO: Initializing...
+05/22/2021 11:01:31 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:01:31 PM __main__ - INFO: Executed 'gibbs_sampling' in 0.2038 secs
+05/22/2021 11:01:31 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:01:31 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:01:31 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:01:32 PM __main__ - INFO: ---------START----------
+05/22/2021 11:01:32 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:01:32 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:01:32 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 10	iterations: 10
+05/22/2021 11:01:32 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:01:32 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:01:32 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:01:32 PM __main__ - INFO: Initializing...
+05/22/2021 11:01:32 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:01:34 PM __main__ - INFO: Executed 'gibbs_sampling' in 2.1561 secs
+05/22/2021 11:01:34 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:01:34 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:01:34 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:01:34 PM __main__ - INFO: ---------START----------
+05/22/2021 11:01:34 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:01:34 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:01:34 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 10	iterations: 50
+05/22/2021 11:01:34 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:01:34 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:01:34 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:01:34 PM __main__ - INFO: Initializing...
+05/22/2021 11:01:34 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:01:44 PM __main__ - INFO: Executed 'gibbs_sampling' in 10.1135 secs
+05/22/2021 11:01:44 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:01:44 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:01:44 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:01:45 PM __main__ - INFO: ---------START----------
+05/22/2021 11:01:45 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:01:45 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:01:45 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 10	iterations: 100
+05/22/2021 11:01:45 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:01:45 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:01:45 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:01:45 PM __main__ - INFO: Initializing...
+05/22/2021 11:01:45 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:02:04 PM __main__ - INFO: Executed 'gibbs_sampling' in 19.7769 secs
+05/22/2021 11:02:04 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:02:04 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:02:04 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:02:05 PM __main__ - INFO: ---------START----------
+05/22/2021 11:02:05 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:02:05 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:02:05 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 10	iterations: 200
+05/22/2021 11:02:05 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:02:05 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:02:05 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:02:05 PM __main__ - INFO: Initializing...
+05/22/2021 11:02:05 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:02:43 PM __main__ - INFO: Executed 'gibbs_sampling' in 38.3081 secs
+05/22/2021 11:02:43 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:02:43 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:02:43 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:02:44 PM __main__ - INFO: ---------START----------
+05/22/2021 11:02:44 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:02:44 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:02:44 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 10	iterations: 300
+05/22/2021 11:02:44 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:02:44 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:02:44 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:02:44 PM __main__ - INFO: Initializing...
+05/22/2021 11:02:44 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:03:48 PM __main__ - INFO: Executed 'gibbs_sampling' in 63.7581 secs
+05/22/2021 11:03:48 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:03:48 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:03:48 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:03:49 PM __main__ - INFO: ---------START----------
+05/22/2021 11:03:49 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:03:49 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:03:49 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 10	iterations: 400
+05/22/2021 11:03:49 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:03:49 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:03:49 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:03:49 PM __main__ - INFO: Initializing...
+05/22/2021 11:03:49 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:05:09 PM __main__ - INFO: Executed 'gibbs_sampling' in 79.6715 secs
+05/22/2021 11:05:09 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:05:09 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:05:09 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:05:09 PM __main__ - INFO: ---------START----------
+05/22/2021 11:05:09 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:05:09 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:05:09 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 10	iterations: 500
+05/22/2021 11:05:09 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:05:09 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:05:09 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:05:09 PM __main__ - INFO: Initializing...
+05/22/2021 11:05:09 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:06:42 PM __main__ - INFO: Executed 'gibbs_sampling' in 92.8350 secs
+05/22/2021 11:06:42 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:06:42 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:06:42 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:06:42 PM __main__ - INFO: ---------START----------
+05/22/2021 11:06:42 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:06:42 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:06:42 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 10	iterations: 1
+05/22/2021 11:06:42 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:06:42 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:06:42 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:06:42 PM __main__ - INFO: Initializing...
+05/22/2021 11:06:42 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:06:43 PM __main__ - INFO: Executed 'gibbs_sampling' in 0.1899 secs
+05/22/2021 11:06:43 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:06:43 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:06:43 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:06:43 PM __main__ - INFO: ---------START----------
+05/22/2021 11:06:43 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:06:43 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:06:43 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 10	iterations: 10
+05/22/2021 11:06:43 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:06:43 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:06:43 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:06:43 PM __main__ - INFO: Initializing...
+05/22/2021 11:06:43 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:06:45 PM __main__ - INFO: Executed 'gibbs_sampling' in 1.9893 secs
+05/22/2021 11:06:45 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:06:45 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:06:45 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:06:45 PM __main__ - INFO: ---------START----------
+05/22/2021 11:06:45 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:06:45 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:06:45 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 10	iterations: 50
+05/22/2021 11:06:45 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:06:45 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:06:45 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:06:45 PM __main__ - INFO: Initializing...
+05/22/2021 11:06:45 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:06:55 PM __main__ - INFO: Executed 'gibbs_sampling' in 10.1430 secs
+05/22/2021 11:06:55 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:06:55 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:06:55 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:06:56 PM __main__ - INFO: ---------START----------
+05/22/2021 11:06:56 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:06:56 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:06:56 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 10	iterations: 100
+05/22/2021 11:06:56 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:06:56 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:06:56 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:06:56 PM __main__ - INFO: Initializing...
+05/22/2021 11:06:56 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:07:15 PM __main__ - INFO: Executed 'gibbs_sampling' in 19.6190 secs
+05/22/2021 11:07:15 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:07:15 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:07:15 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:07:16 PM __main__ - INFO: ---------START----------
+05/22/2021 11:07:16 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:07:16 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:07:16 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 10	iterations: 200
+05/22/2021 11:07:16 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:07:16 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:07:16 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:07:16 PM __main__ - INFO: Initializing...
+05/22/2021 11:07:16 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:07:53 PM __main__ - INFO: Executed 'gibbs_sampling' in 37.3757 secs
+05/22/2021 11:07:53 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:07:53 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:07:53 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:07:54 PM __main__ - INFO: ---------START----------
+05/22/2021 11:07:54 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:07:54 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:07:54 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 10	iterations: 300
+05/22/2021 11:07:54 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:07:54 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:07:54 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:07:54 PM __main__ - INFO: Initializing...
+05/22/2021 11:07:54 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:08:51 PM __main__ - INFO: Executed 'gibbs_sampling' in 57.8567 secs
+05/22/2021 11:08:51 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:08:51 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:08:51 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:08:52 PM __main__ - INFO: ---------START----------
+05/22/2021 11:08:52 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:08:52 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:08:52 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 10	iterations: 400
+05/22/2021 11:08:52 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:08:52 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:08:52 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:08:52 PM __main__ - INFO: Initializing...
+05/22/2021 11:08:52 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:10:24 PM __main__ - INFO: Executed 'gibbs_sampling' in 91.6322 secs
+05/22/2021 11:10:24 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:10:24 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:10:24 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:10:24 PM __main__ - INFO: ---------START----------
+05/22/2021 11:10:24 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:10:24 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:10:24 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 10	iterations: 500
+05/22/2021 11:10:24 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:10:24 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:10:24 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:10:24 PM __main__ - INFO: Initializing...
+05/22/2021 11:10:24 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:12:03 PM __main__ - INFO: Executed 'gibbs_sampling' in 99.1681 secs
+05/22/2021 11:12:03 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:12:03 PM __main__ - INFO: Printing 5 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:12:03 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:35:14 PM __main__ - INFO: ---------START----------
+05/22/2021 11:35:14 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:35:14 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:35:14 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 5	iterations: 1
+05/22/2021 11:35:14 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:35:14 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:35:14 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:35:14 PM __main__ - INFO: Initializing...
+05/22/2021 11:35:14 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:35:15 PM __main__ - INFO: Executed 'gibbs_sampling' in 0.1811 secs
+05/22/2021 11:35:15 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:35:15 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:35:15 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:35:15 PM __main__ - INFO: ---------START----------
+05/22/2021 11:35:15 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:35:15 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:35:15 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 5	iterations: 10
+05/22/2021 11:35:15 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:35:15 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:35:15 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:35:15 PM __main__ - INFO: Initializing...
+05/22/2021 11:35:15 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:35:17 PM __main__ - INFO: Executed 'gibbs_sampling' in 1.8778 secs
+05/22/2021 11:35:17 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:35:17 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:35:17 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:35:17 PM __main__ - INFO: ---------START----------
+05/22/2021 11:35:17 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:35:17 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:35:17 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 5	iterations: 50
+05/22/2021 11:35:17 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:35:17 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:35:17 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:35:17 PM __main__ - INFO: Initializing...
+05/22/2021 11:35:17 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:35:27 PM __main__ - INFO: Executed 'gibbs_sampling' in 9.5771 secs
+05/22/2021 11:35:27 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:35:27 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:35:27 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:35:27 PM __main__ - INFO: ---------START----------
+05/22/2021 11:35:27 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:35:27 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:35:27 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 5	iterations: 100
+05/22/2021 11:35:27 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:35:27 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:35:27 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:35:27 PM __main__ - INFO: Initializing...
+05/22/2021 11:35:27 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:35:44 PM __main__ - INFO: Executed 'gibbs_sampling' in 16.6190 secs
+05/22/2021 11:35:44 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:35:44 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:35:44 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:35:44 PM __main__ - INFO: ---------START----------
+05/22/2021 11:35:44 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:35:44 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:35:44 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 5	iterations: 200
+05/22/2021 11:35:44 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:35:44 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:35:44 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:35:44 PM __main__ - INFO: Initializing...
+05/22/2021 11:35:44 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:36:15 PM __main__ - INFO: Executed 'gibbs_sampling' in 31.0869 secs
+05/22/2021 11:36:15 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:36:15 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:36:15 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:36:15 PM __main__ - INFO: ---------START----------
+05/22/2021 11:36:15 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:36:15 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:36:15 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 5	iterations: 300
+05/22/2021 11:36:15 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:36:15 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:36:15 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:36:15 PM __main__ - INFO: Initializing...
+05/22/2021 11:36:15 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:37:02 PM __main__ - INFO: Executed 'gibbs_sampling' in 47.1878 secs
+05/22/2021 11:37:02 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:37:02 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:37:02 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:37:03 PM __main__ - INFO: ---------START----------
+05/22/2021 11:37:03 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:37:03 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:37:03 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 5	iterations: 400
+05/22/2021 11:37:03 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:37:03 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:37:03 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:37:03 PM __main__ - INFO: Initializing...
+05/22/2021 11:37:03 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:38:08 PM __main__ - INFO: Executed 'gibbs_sampling' in 65.3438 secs
+05/22/2021 11:38:08 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:38:08 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:38:08 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:38:08 PM __main__ - INFO: ---------START----------
+05/22/2021 11:38:08 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:38:08 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:38:08 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.01	beta: 0.1
+number of topics: 5	iterations: 500
+05/22/2021 11:38:08 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:38:08 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:38:08 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:38:08 PM __main__ - INFO: Initializing...
+05/22/2021 11:38:08 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:39:29 PM __main__ - INFO: Executed 'gibbs_sampling' in 80.5928 secs
+05/22/2021 11:39:29 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:39:29 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:39:29 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:39:29 PM __main__ - INFO: ---------START----------
+05/22/2021 11:39:29 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:39:29 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:39:29 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 1
+05/22/2021 11:39:29 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:39:29 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:39:29 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:39:29 PM __main__ - INFO: Initializing...
+05/22/2021 11:39:29 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:39:29 PM __main__ - INFO: Executed 'gibbs_sampling' in 0.1612 secs
+05/22/2021 11:39:29 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:39:29 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:39:29 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:39:30 PM __main__ - INFO: ---------START----------
+05/22/2021 11:39:30 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:39:30 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:39:30 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 10
+05/22/2021 11:39:30 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:39:30 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:39:30 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:39:30 PM __main__ - INFO: Initializing...
+05/22/2021 11:39:30 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:39:31 PM __main__ - INFO: Executed 'gibbs_sampling' in 1.7075 secs
+05/22/2021 11:39:31 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:39:31 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:39:31 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:39:32 PM __main__ - INFO: ---------START----------
+05/22/2021 11:39:32 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:39:32 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:39:32 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 50
+05/22/2021 11:39:32 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:39:32 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:39:32 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:39:32 PM __main__ - INFO: Initializing...
+05/22/2021 11:39:32 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:39:40 PM __main__ - INFO: Executed 'gibbs_sampling' in 8.5329 secs
+05/22/2021 11:39:40 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:39:40 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:39:40 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:39:40 PM __main__ - INFO: ---------START----------
+05/22/2021 11:39:40 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:39:40 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:39:40 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 100
+05/22/2021 11:39:40 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:39:40 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:39:40 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:39:40 PM __main__ - INFO: Initializing...
+05/22/2021 11:39:40 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:39:56 PM __main__ - INFO: Executed 'gibbs_sampling' in 15.9555 secs
+05/22/2021 11:39:56 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:39:56 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:39:56 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:39:57 PM __main__ - INFO: ---------START----------
+05/22/2021 11:39:57 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:39:57 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:39:57 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 200
+05/22/2021 11:39:57 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:39:57 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:39:57 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:39:57 PM __main__ - INFO: Initializing...
+05/22/2021 11:39:57 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:40:29 PM __main__ - INFO: Executed 'gibbs_sampling' in 32.4535 secs
+05/22/2021 11:40:29 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:40:29 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:40:29 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:40:29 PM __main__ - INFO: ---------START----------
+05/22/2021 11:40:29 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:40:29 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:40:29 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 300
+05/22/2021 11:40:29 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:40:29 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:40:29 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:40:29 PM __main__ - INFO: Initializing...
+05/22/2021 11:40:29 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:41:17 PM __main__ - INFO: Executed 'gibbs_sampling' in 47.4796 secs
+05/22/2021 11:41:17 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:41:17 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:41:17 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:41:17 PM __main__ - INFO: ---------START----------
+05/22/2021 11:41:17 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:41:17 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:41:17 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 400
+05/22/2021 11:41:17 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:41:17 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:41:17 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:41:17 PM __main__ - INFO: Initializing...
+05/22/2021 11:41:17 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:42:21 PM __main__ - INFO: Executed 'gibbs_sampling' in 63.8200 secs
+05/22/2021 11:42:21 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:42:21 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:42:21 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:42:21 PM __main__ - INFO: ---------START----------
+05/22/2021 11:42:21 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:42:21 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:42:21 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.05	beta: 0.1
+number of topics: 5	iterations: 500
+05/22/2021 11:42:21 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:42:21 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:42:21 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:42:21 PM __main__ - INFO: Initializing...
+05/22/2021 11:42:21 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:43:43 PM __main__ - INFO: Executed 'gibbs_sampling' in 81.5402 secs
+05/22/2021 11:43:43 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:43:43 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:43:43 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:43:43 PM __main__ - INFO: ---------START----------
+05/22/2021 11:43:43 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:43:43 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:43:43 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 1
+05/22/2021 11:43:43 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:43:43 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:43:43 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:43:43 PM __main__ - INFO: Initializing...
+05/22/2021 11:43:43 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:43:43 PM __main__ - INFO: Executed 'gibbs_sampling' in 0.1712 secs
+05/22/2021 11:43:43 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:43:43 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:43:43 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:43:43 PM __main__ - INFO: ---------START----------
+05/22/2021 11:43:43 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:43:43 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:43:43 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 10
+05/22/2021 11:43:43 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:43:43 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:43:43 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:43:43 PM __main__ - INFO: Initializing...
+05/22/2021 11:43:43 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:43:45 PM __main__ - INFO: Executed 'gibbs_sampling' in 1.7566 secs
+05/22/2021 11:43:45 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:43:45 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:43:45 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:43:46 PM __main__ - INFO: ---------START----------
+05/22/2021 11:43:46 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:43:46 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:43:46 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 50
+05/22/2021 11:43:46 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:43:46 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:43:46 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:43:46 PM __main__ - INFO: Initializing...
+05/22/2021 11:43:46 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:43:54 PM __main__ - INFO: Executed 'gibbs_sampling' in 8.8167 secs
+05/22/2021 11:43:54 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:43:54 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:43:54 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:43:55 PM __main__ - INFO: ---------START----------
+05/22/2021 11:43:55 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:43:55 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:43:55 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 100
+05/22/2021 11:43:55 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:43:55 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:43:55 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:43:55 PM __main__ - INFO: Initializing...
+05/22/2021 11:43:55 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:44:11 PM __main__ - INFO: Executed 'gibbs_sampling' in 16.6163 secs
+05/22/2021 11:44:11 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:44:11 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:44:11 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:44:12 PM __main__ - INFO: ---------START----------
+05/22/2021 11:44:12 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:44:12 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:44:12 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 200
+05/22/2021 11:44:12 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:44:12 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:44:12 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:44:12 PM __main__ - INFO: Initializing...
+05/22/2021 11:44:12 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:44:45 PM __main__ - INFO: Executed 'gibbs_sampling' in 33.2041 secs
+05/22/2021 11:44:45 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:44:45 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:44:45 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:44:45 PM __main__ - INFO: ---------START----------
+05/22/2021 11:44:45 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:44:45 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:44:45 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 300
+05/22/2021 11:44:45 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:44:45 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:44:45 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:44:45 PM __main__ - INFO: Initializing...
+05/22/2021 11:44:45 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:45:33 PM __main__ - INFO: Executed 'gibbs_sampling' in 47.8672 secs
+05/22/2021 11:45:33 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:45:33 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:45:33 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:45:33 PM __main__ - INFO: ---------START----------
+05/22/2021 11:45:33 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:45:33 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:45:33 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 400
+05/22/2021 11:45:33 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:45:33 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:45:33 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:45:33 PM __main__ - INFO: Initializing...
+05/22/2021 11:45:33 PM __main__ - INFO: Gibbs sampling in progress...
+05/22/2021 11:58:23 PM __main__ - INFO: Executed 'gibbs_sampling' in 80.0096 secs
+05/22/2021 11:58:23 PM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/22/2021 11:58:23 PM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/22/2021 11:58:23 PM __main__ - INFO: -----------FINISHED-------------
+
+05/22/2021 11:58:23 PM __main__ - INFO: ---------START----------
+05/22/2021 11:58:23 PM __main__ - INFO: Training from /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/preprocessed_luisa_text.txt
+05/22/2021 11:58:23 PM __main__ - INFO: LDA topic modeling output saving to: output.txt
+05/22/2021 11:58:23 PM __main__ - INFO: LDA Gibbs Sampling with the following parameters:
+alpha: 0.1	beta: 0.1
+number of topics: 5	iterations: 500
+05/22/2021 11:58:23 PM __main__ - INFO: logging outputs saving to: /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/topic_lda.log
+05/22/2021 11:58:23 PM __main__ - INFO: pre-processing steps
+05/22/2021 11:58:23 PM __main__ - INFO: corpus has: 51 documents
+corpus has: 4436 word tokens
+vocab size: 2157
+
+05/22/2021 11:58:23 PM __main__ - INFO: Initializing...
+05/22/2021 11:58:23 PM __main__ - INFO: Gibbs sampling in progress...
+05/23/2021 12:17:48 AM __main__ - INFO: Executed 'gibbs_sampling' in 111.9445 secs
+05/23/2021 12:17:48 AM __main__ - INFO: Saving trained distributions to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data
+05/23/2021 12:17:48 AM __main__ - INFO: Printing 10 most frequent words per topic to /Users/noonscape/Documents/chatbot_luisa/generation/about_luisa/data/output.txt
+05/23/2021 12:17:48 AM __main__ - INFO: -----------FINISHED-------------
+
