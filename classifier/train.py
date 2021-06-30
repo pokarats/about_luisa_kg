@@ -36,7 +36,7 @@ class Model(nn.Module):
             self.train(True)
             for sample, true_class in self.dataLoader:
                 output = self(sample).reshape(-1)
-                loss = nn.BCELoss()(output, true_class*1.0)
+                loss = nn.BCELoss()(output, true_class)
                 self.optimizer.zero_grad()
                 loss.backward()
                 self.optimizer.step()

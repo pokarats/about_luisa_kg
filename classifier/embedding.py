@@ -14,7 +14,7 @@ with open("responses_ann_new.txt", encoding="UTF-8") as f:
 for a, b in datapoints:
     encoded_input = tokenizer(a, padding=True, truncation=True, max_length=128, return_tensors='pt')
     output = model(**encoded_input)
-    data.append((output[0][0, 0], b*1))
+    data.append((output[0][0, 0], b*1.0))
 with open("reponses_encoded.pickle", "wb") as f:
     pickler = pickle.Pickler(f)
     pickler.dump(data)
