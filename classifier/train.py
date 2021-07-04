@@ -1,19 +1,22 @@
 import torch
 import torch.nn as nn
 import pickle
+import random
 
-with open("reponses_encoded.pickle", "rb") as fread:
+with open("reponses_encoded.pickle_tmp", "rb") as fread:
     reader = pickle.Unpickler(fread)
     data = reader.load()
 
 
 class Model(nn.Module):
-    def __init__(self, batchSize=128, learningRate=0.001):
+    def __init__(self, batchSize=99999, learningRate=0.001):
         super().__init__()
 
         self.layers = [
-            nn.Linear(768, 1),
-            nn.Sigmoid()
+            nn.Linear(768, 32),
+            nn.Tanh(),
+            nn.Linear(32, 1),
+            nn.Sigmoid(),
         ]
         self.all_layers = nn.Sequential(*self.layers)
         self.batchSize = batchSize
@@ -28,8 +31,11 @@ class Model(nn.Module):
         return self.all_layers(x)
 
     def trainModel(self, data, epochs):
+        random.shuffle(data)
+        dataTrain = data[100:]
+        dataDev = data[:100]
         self.dataLoader = torch.utils.data.DataLoader(
-            dataset=data, batch_size=self.batchSize, shuffle=True
+            dataset=dataTrain, batch_size=self.batchSize, shuffle=True
         )
 
         for epoch in range(epochs):
@@ -41,18 +47,28 @@ class Model(nn.Module):
                 loss.backward()
                 self.optimizer.step()
 
-            if (epoch + 1) % 10 == 0:
+            if (epoch + 1) % 1 == 0:
                 self.train(False)
 
                 hits = 0
-                for sample, true_class in data:
+                hitsTP = 0
+                hitsFP = 0
+                totalP = 0
+                threshold = 0.5
+                for sample, true_class in dataDev:
                     with torch.no_grad():
                         output = self(sample)
-                    if (output >= 0.5) == (true_class == 1):
+                    if (output >= threshold) == (true_class == 1):
                         hits += 1
+                    if (output >= threshold) and (true_class == 1):
+                        hitsTP += 1
+                    if (output >= threshold) and (true_class == 0):
+                        hitsFP += 1
+                    if true_class == 1:
+                        totalP += 1
 
-
-                    print(f"epoch {epoch}, accuracy {hits / len(data) * 100:.2f}%")
+                precision = 0 if hitsFP == 0 and hitsTP == 0 else hitsTP / (hitsTP + hitsFP)
+                print(f"epoch {epoch}, accuracy {hits / len(dataDev) * 100:.2f}%, Precision {precision * 100:.2f}%")
 
 model = Model()
 model.trainModel(data, 1000)
