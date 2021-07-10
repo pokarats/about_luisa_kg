@@ -6,6 +6,10 @@ Naive approach to extract concepts for building the knowledge base from articles
 
 After pre-processing, resultant corpus consists of 350 sentences.
 
+## Pre-processing Scripts
+- `preprocess.py` is used for preprocessing text for LDA Topic Modeling
+- `preprocess_for_sent.py` is used for preprocessing text into sentences for KG generation
+
 ## Steps
 1. Manually pre-process into paragraphs that discuss the same topic
 2. Pre-process into 1 sentence per line, stripping symbols, but keep phrasing punctuation marks and casing

@@ -2,6 +2,12 @@ import sys
 import nltk
 import re
 
+"""
+Pre-process manually edited text file (e.g. luisa_text.txt, luisa_text_optimized.txt) for LDA, getting ride of
+punctuations and optionally lemmatize and remove stopwords (English)
+
+output: preprocessed_<input file name>.txt
+"""
 
 file_name = sys.argv[1]
 lemmatized = True if sys.argv[2] == 'True' else False

@@ -1,0 +1,202 @@
+[
+    {
+      "edge": "relates on",
+      "source": "Clement",
+      "target": "relationship",
+      "key": 0
+    },
+    {
+      "edge": "relates on",
+      "source": "Clement",
+      "target": "early  modernity",
+      "key": 0
+    },
+    {
+      "edge": "relates on",
+      "source": "Clement",
+      "target": "human  body",
+      "key": 0
+    },
+    {
+      "edge": "relates on",
+      "source": "Clement",
+      "target": "humanist plastic representative",
+      "key": 0
+    },
+    {
+      "edge": "raises the",
+      "source": "Clement",
+      "target": "status quo",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "Clement",
+      "target": "status quo",
+      "key": 1
+    },
+    {
+      "edge": "work with",
+      "source": "Clement",
+      "target": "war zones",
+      "key": 0
+    },
+    {
+      "edge": "work with",
+      "source": "Clement",
+      "target": "war dead",
+      "key": 0
+    },
+    {
+      "edge": "takes",
+      "source": "Louisa Clement",
+      "target": "ethical self doubt",
+      "key": 0
+    },
+    {
+      "edge": "takes",
+      "source": "Louisa Clement",
+      "target": "ethical self climax",
+      "key": 0
+    },
+    {
+      "edge": "motif",
+      "source": "Louisa Clement",
+      "target": "artificial interventions"
+    },
+    {
+      "edge": "motif",
+      "source": "Louisa Clement",
+      "target": "boundary between human and artificial humanity border"
+    },
+    {
+      "edge": "motif",
+      "source": "Louisa Clement",
+      "target": "new human"
+    },
+    {
+      "edge": "dealing with",
+      "source": "above all  we",
+      "target": "faceless  apparitions",
+      "key": 0
+    },
+    {
+      "edge": "dealing with",
+      "source": "above all  we",
+      "target": "also  allusions",
+      "key": 0
+    },
+    {
+      "edge": "stands for",
+      "source": "Avatar",
+      "target": "artificial image of a human in the virtual world and social media",
+      "key": 0
+    },
+    {
+      "edge": "refers to",
+      "source": "Avatar",
+      "target": "social  media",
+      "key": 0
+    },
+    {
+      "edge": "vanishing from",
+      "source": "image",
+      "target": "oriented social balance order",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "artist",
+      "target": "contemporary sociopolitical  questioning",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "analysis",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "photographic  works",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "medium specific  concept",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "two dimensional  photograph",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "two dimensional  times",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "contemporary sociopolitical  approach",
+      "target": "contemporary sociopolitical  questioning",
+      "key": 0
+    },
+    {
+      "edge": "idea",
+      "source": "Land art",
+      "target": "political and aesthetic impact of sculpture"
+    },
+    {
+      "edge": "cruelty with",
+      "source": "inhuman",
+      "target": "political  opponents",
+      "key": 0
+    },
+    {
+      "edge": "cruelty with",
+      "source": "Disasters",
+      "target": "political  opponents",
+      "key": 0
+    },
+    {
+      "edge": "tied to",
+      "source": "Closely  elimination",
+      "target": "political  art",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "Closely  elimination",
+      "target": "political  art",
+      "key": 1
+    },
+    {
+      "edge": "used as",
+      "source": "mustard Haber poison",
+      "target": "invisible World War weapon",
+      "key": 0
+    },
+    {
+      "edge": "evokes a resemblance to",
+      "source": "trendy colorfulness",
+      "target": "commercial worlds of pop and advertising culture images",
+      "key": 0
+    },
+    {
+      "edge": "stands for",
+      "source": "Avatar",
+      "target": "artificial image of a human in the virtual world and social media",
+      "key": 0
+    },
+    {
+      "edge": "is a",
+      "source": "Avatar",
+      "target": "self representation in the virtual world",
+      "key": 0
+    }
+]

@@ -1,3 +1,4 @@
+import argparse
 import sys
 import nltk
 import re
@@ -5,16 +6,28 @@ from pathlib import Path
 import spacy
 
 
+"""
+Preprocessed manually optimized txt file into 1 document per line and 1 sentence per line.
+Casing remains unchanged.
+Can be optiionally lemmatized.
+"""
+
+cl_parser = argparse.ArgumentParser(description='Preprcoess Texts')
+cl_parser.add_argument('-i', '--input_file', default='luisa_text_optimized.txt', help='Input filename')
+cl_parser.add_argument('-l', '--lemmatize', type=bool, default=False, help='Lemmatize or not')
+cl_parser.add_argument('-d', '--data_dir', type=str, default='data', help='Name of data directory')
+
+args = cl_parser.parse_args()
 # in file and out file should be in the same directory 'data'
-input_filename = Path(sys.argv[1]).name
-lemmatized = True if sys.argv[2] == 'True' else False
+input_filename = Path(args.input_file).name
+lemmatized = args.lemmatize
 o_filename = 'case_preprocessed_' + str(input_filename)
 sent_outfile = 'case_sent' + str(input_filename)
 
 
-out_filename = Path(__file__).resolve().parent / 'data' / o_filename
-sent_out = Path(__file__).resolve().parent / 'data' / sent_outfile
-file_name = Path(__file__).resolve().parent / 'data' / input_filename
+out_filename = Path(__file__).resolve().parent / args.data_dir / o_filename
+sent_out = Path(__file__).resolve().parent / args.data_dir / sent_outfile
+file_name = Path(__file__).resolve().parent / args.data_dir / input_filename
 
 punctuations = '!"#$%&()*+/<=>?@[\\]^_`{|}~'
 additional_punct = '\'´´``„”“’‘'  # to account for foreign quotation marks

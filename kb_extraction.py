@@ -1,3 +1,4 @@
+import argparse
 import json
 import re
 import pandas as pd
@@ -23,15 +24,28 @@ parent_dir = Path(__file__).resolve().parent
 parser = spacy.load('en_core_web_sm')
 
 # in file should be in the directory 'data'
-try:
-    input_filename = Path(sys.argv[1]).name
-    lemmatized = True if sys.argv[2] == 'True' else False
-except IndexError:
-    input_filename = Path("data/case_sentluisa_text_optimized.txt").name
+cl_parser = argparse.ArgumentParser(description='KB Generation')
+cl_parser.add_argument('-i', '--input_file', default='data/case_sentluisa_text_optimized.txt', help='Input filename')
+cl_parser.add_argument('-d', '--data_dir', type=str, default='data', help='Name of data directory')
+cl_parser.add_argument('-l', '--lemmatize', type=bool, default=False, help='Lemmatize or not')
+cl_parser.add_argument('-o', '--out_dir', type=str, default='kb', help='Name of output KG directory')
+
+args = cl_parser.parse_args()
+print(args)
+
+lemmatized = args.lemmatize
+input_filename = Path(args.input_file).name
 
 # output/extracted entities and relations will be in 'kb' directory
-out_kb_dir = parent_dir / 'kb'
-in_filename = parent_dir / 'data' / input_filename
+out_kb_dir = parent_dir / args.out_dir
+try:
+    out_kb_dir.mkdir(parents=True, exist_ok=False)
+except FileExistsError:
+    print(f"{out_kb_dir} directory is already there")
+else:
+    print(f"{out_kb_dir} directory was created")
+
+in_filename = parent_dir / args.data_dir / input_filename
 
 
 def get_entities(sent):
@@ -173,7 +187,7 @@ def text_file_to_csv(infile):
     df = pd.DataFrame(list(filter(None, sentences)))  # get rid of empty str in sentences
     df.columns = ['sentence']
     outfile_name = str(infile.stem) + ".csv"
-    outfile = parent_dir / 'data' / outfile_name
+    outfile = parent_dir / args.data_dir / outfile_name
     df.to_csv(outfile)
 
     return df
@@ -197,8 +211,8 @@ def get_all_entity_pairs(sentences):
 
 # some sample sentences to test kb extraction
 try:
-    csv_data_file = 'case_sentluisa_text_optimized.csv'
-    all_sentences = pd.read_csv(parent_dir / 'data' / csv_data_file)['sentence']
+    csv_data_file = Path(args.input_file).stem + ".csv"
+    all_sentences = pd.read_csv(parent_dir / args.data_dir / csv_data_file)['sentence']
 except FileNotFoundError:
     all_sentences = text_file_to_csv(in_filename)['sentence']
 

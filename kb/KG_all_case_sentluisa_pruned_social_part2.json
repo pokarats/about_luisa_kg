@@ -1,0 +1,1387 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "links": [
+    {
+      "edge": "traces an",
+      "source": "I",
+      "target": "network",
+      "key": 0
+    },
+    {
+      "edge": "traces an",
+      "source": "I",
+      "target": "ever deepening  times",
+      "key": 0
+    },
+    {
+      "edge": "traces an",
+      "source": "output",
+      "target": "network",
+      "key": 0
+    },
+    {
+      "edge": "traces an",
+      "source": "output",
+      "target": "ever deepening  times",
+      "key": 0
+    },
+    {
+      "edge": "dealing with",
+      "source": "above all  we",
+      "target": "human  beings",
+      "key": 0
+    },
+    {
+      "edge": "dealing with faceless",
+      "source": "above all  we",
+      "target": "human  beings",
+      "key": 1
+    },
+    {
+      "edge": "becomes clear",
+      "source": "human  beings",
+      "target": "goods",
+      "key": 0
+    },
+    {
+      "edge": "becomes clear",
+      "source": "human  beings",
+      "target": "shop window mannequins",
+      "key": 0
+    },
+    {
+      "edge": "becomes clear",
+      "source": "Here  it",
+      "target": "goods",
+      "key": 0
+    },
+    {
+      "edge": "becomes clear",
+      "source": "Here  it",
+      "target": "shop window mannequins",
+      "key": 0
+    },
+    {
+      "edge": "becomes clear",
+      "source": "thematic asset approach",
+      "target": "shop window mannequins",
+      "key": 0
+    },
+    {
+      "edge": "calls into",
+      "source": "one",
+      "target": "simple  dichotomy",
+      "key": 0
+    },
+    {
+      "edge": "calls into",
+      "source": "one",
+      "target": "question",
+      "key": 0
+    },
+    {
+      "edge": "calls into",
+      "source": "one",
+      "target": "conventional  understanding",
+      "key": 0
+    },
+    {
+      "edge": "calls into",
+      "source": "one",
+      "target": "conventional  reality",
+      "key": 0
+    },
+    {
+      "edge": "acquired an",
+      "source": "though  interventions",
+      "target": "human  body",
+      "key": 0
+    },
+    {
+      "edge": "acquired an",
+      "source": "though  interventions",
+      "target": "human  technology",
+      "key": 0
+    },
+    {
+      "edge": "acquired an",
+      "source": "though  interventions",
+      "target": "new  quality",
+      "key": 0
+    },
+    {
+      "edge": "acquired an",
+      "source": "though  interventions",
+      "target": "new  result",
+      "key": 0
+    },
+    {
+      "edge": "acquired an",
+      "source": "though  interventions",
+      "target": "boundaries",
+      "key": 0
+    },
+    {
+      "edge": "acquired an",
+      "source": "though  interventions",
+      "target": "human",
+      "key": 0
+    },
+    {
+      "edge": "acquired an",
+      "source": "though  interventions",
+      "target": "alarming  prominence",
+      "key": 0
+    },
+    {
+      "edge": "acquired an",
+      "source": "new  question",
+      "target": "recent  years",
+      "key": 0
+    },
+    {
+      "edge": "acquired an",
+      "source": "new  question",
+      "target": "human  body",
+      "key": 0
+    },
+    {
+      "edge": "acquired an",
+      "source": "new  question",
+      "target": "human  technology",
+      "key": 0
+    },
+    {
+      "edge": "acquired an",
+      "source": "new  question",
+      "target": "human",
+      "key": 0
+    },
+    {
+      "edge": "acquired an",
+      "source": "new  question",
+      "target": "alarming  prominence",
+      "key": 0
+    },
+    {
+      "edge": "morphed into",
+      "source": "hybrid machine that",
+      "target": "extreme  forms",
+      "key": 0
+    },
+    {
+      "edge": "morphed into",
+      "source": "hybrid machine that",
+      "target": "visionary  concepts",
+      "key": 0
+    },
+    {
+      "edge": "morphed into",
+      "source": "hybrid machine that",
+      "target": "hybrid machine form",
+      "key": 0
+    },
+    {
+      "edge": "morphed into",
+      "source": "where humanitys borders",
+      "target": "extreme  forms",
+      "key": 0
+    },
+    {
+      "edge": "morphed into",
+      "source": "where humanitys borders",
+      "target": "visionary  concepts",
+      "key": 0
+    },
+    {
+      "edge": "morphed into",
+      "source": "where humanitys borders",
+      "target": "hybrid machine form",
+      "key": 0
+    },
+    {
+      "edge": "fitted into",
+      "source": "new  which",
+      "target": "man",
+      "key": 0
+    },
+    {
+      "edge": "fitted into",
+      "source": "new  which",
+      "target": "cultural historical  tradition",
+      "key": 0
+    },
+    {
+      "edge": "fitted into",
+      "source": "new  which",
+      "target": "cultural historical  search",
+      "key": 0
+    },
+    {
+      "edge": "fitted into",
+      "source": "new  which",
+      "target": "advent",
+      "key": 0
+    },
+    {
+      "edge": "fitted into",
+      "source": "new  which",
+      "target": "Christianity",
+      "key": 0
+    },
+    {
+      "edge": "fitted into",
+      "source": "new  which",
+      "target": "preliminary fascisms totalitarian utopia",
+      "key": 0
+    },
+    {
+      "edge": "fitted into",
+      "source": "new  which",
+      "target": "preliminary October Russia",
+      "key": 0
+    },
+    {
+      "edge": "serves as",
+      "source": "so often  reservoir",
+      "target": "shattered  utopias",
+      "key": 0
+    },
+    {
+      "edge": "serves as",
+      "source": "so often  reservoir",
+      "target": "shattered  modernism",
+      "key": 0
+    },
+    {
+      "edge": "serves as",
+      "source": "so often  reservoir",
+      "target": "historical  wrapper",
+      "key": 0
+    },
+    {
+      "edge": "serves as",
+      "source": "so often  reservoir",
+      "target": "historical  creativity",
+      "key": 0
+    },
+    {
+      "edge": "serves as",
+      "source": "so often  reservoir",
+      "target": "historical  contemporary",
+      "key": 0
+    },
+    {
+      "edge": "radicalized along",
+      "source": "ever changing fractures composition",
+      "target": "reality",
+      "key": 0
+    },
+    {
+      "edge": "becomes clear",
+      "source": "It",
+      "target": "once again shop window dummies",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "human hand  scene",
+      "target": "artificial  life",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "thus  it",
+      "target": "human hand  glove",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "thus  it",
+      "target": "rather alluring  figures",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "thus  it",
+      "target": "glossy aesthetic  mode",
+      "key": 0
+    },
+    {
+      "edge": "is the",
+      "source": "thus  it",
+      "target": "artificial  life",
+      "key": 0
+    },
+    {
+      "edge": "in a",
+      "source": "interaction",
+      "target": "robot",
+      "key": 0
+    },
+    {
+      "edge": "in a",
+      "source": "where artificial  intelligence",
+      "target": "physically  visual",
+      "key": 0
+    },
+    {
+      "edge": "in a",
+      "source": "where artificial  intelligence",
+      "target": "virtual  space",
+      "key": 0
+    },
+    {
+      "edge": "in a",
+      "source": "where artificial  intelligence",
+      "target": "robot",
+      "key": 0
+    },
+    {
+      "edge": "function as",
+      "source": "digitized  that",
+      "target": "alienated  proxies",
+      "key": 0
+    },
+    {
+      "edge": "function as alienated",
+      "source": "digitized  that",
+      "target": "alienated  proxies",
+      "key": 1
+    },
+    {
+      "edge": "function as",
+      "source": "digitized  that",
+      "target": "alienated  icons",
+      "key": 0
+    },
+    {
+      "edge": "function as alienated",
+      "source": "digitized  that",
+      "target": "alienated  icons",
+      "key": 1
+    },
+    {
+      "edge": "function as",
+      "source": "digitized  that",
+      "target": "digitized  world",
+      "key": 0
+    },
+    {
+      "edge": "function as alienated",
+      "source": "digitized  that",
+      "target": "digitized  world",
+      "key": 1
+    },
+    {
+      "edge": "function as",
+      "source": "digitized  that",
+      "target": "new cultural  technologies",
+      "key": 0
+    },
+    {
+      "edge": "function as alienated",
+      "source": "digitized  that",
+      "target": "new cultural  technologies",
+      "key": 1
+    },
+    {
+      "edge": "function as",
+      "source": "digitized  that",
+      "target": "new cultural  thought",
+      "key": 0
+    },
+    {
+      "edge": "function as alienated",
+      "source": "digitized  that",
+      "target": "new cultural  thought",
+      "key": 1
+    },
+    {
+      "edge": "appearing as",
+      "source": "featureless",
+      "target": "sexless identification figures",
+      "key": 0
+    },
+    {
+      "edge": "appearing as sexless",
+      "source": "featureless",
+      "target": "sexless identification figures",
+      "key": 1
+    },
+    {
+      "edge": "generate an",
+      "source": "featureless",
+      "target": "sexless identification figures",
+      "key": 2
+    },
+    {
+      "edge": "appearing as",
+      "source": "featureless",
+      "target": "highly commercialized identification present",
+      "key": 0
+    },
+    {
+      "edge": "appearing as sexless",
+      "source": "featureless",
+      "target": "highly commercialized identification present",
+      "key": 1
+    },
+    {
+      "edge": "generate an",
+      "source": "featureless",
+      "target": "highly commercialized identification present",
+      "key": 2
+    },
+    {
+      "edge": "appearing as",
+      "source": "featureless",
+      "target": "highly commercialized identification explosiveness",
+      "key": 0
+    },
+    {
+      "edge": "appearing as sexless",
+      "source": "featureless",
+      "target": "highly commercialized identification explosiveness",
+      "key": 1
+    },
+    {
+      "edge": "generate an",
+      "source": "featureless",
+      "target": "highly commercialized identification explosiveness",
+      "key": 2
+    },
+    {
+      "edge": "appearing as",
+      "source": "featureless",
+      "target": "highly commercialized identification humans",
+      "key": 0
+    },
+    {
+      "edge": "appearing as sexless",
+      "source": "featureless",
+      "target": "highly commercialized identification humans",
+      "key": 1
+    },
+    {
+      "edge": "generate an",
+      "source": "featureless",
+      "target": "highly commercialized identification humans",
+      "key": 2
+    },
+    {
+      "edge": "appearing as",
+      "source": "featureless",
+      "target": "highly commercialized identification material",
+      "key": 0
+    },
+    {
+      "edge": "appearing as sexless",
+      "source": "featureless",
+      "target": "highly commercialized identification material",
+      "key": 1
+    },
+    {
+      "edge": "generate an",
+      "source": "featureless",
+      "target": "highly commercialized identification material",
+      "key": 2
+    },
+    {
+      "edge": "appearing as",
+      "source": "featureless",
+      "target": "highly commercialized identification politics",
+      "key": 0
+    },
+    {
+      "edge": "generate an",
+      "source": "featureless",
+      "target": "highly commercialized identification politics",
+      "key": 2
+    },
+    {
+      "edge": "appearing as",
+      "source": "featureless",
+      "target": "highly commercialized identification body",
+      "key": 0
+    },
+    {
+      "edge": "appearing as sexless",
+      "source": "featureless",
+      "target": "highly commercialized identification body",
+      "key": 1
+    },
+    {
+      "edge": "generate an",
+      "source": "featureless",
+      "target": "highly commercialized identification body",
+      "key": 2
+    },
+    {
+      "edge": "of the",
+      "source": "featureless",
+      "target": "highly commercialized identification body",
+      "key": 3
+    },
+    {
+      "edge": "made digital",
+      "source": "User friendly  controls",
+      "target": "digital  operation",
+      "key": 0
+    },
+    {
+      "edge": "made digital",
+      "source": "User friendly  controls",
+      "target": "digital  norm",
+      "key": 0
+    },
+    {
+      "edge": "made digital",
+      "source": "User friendly  controls",
+      "target": "entire global communications culture",
+      "key": 0
+    },
+    {
+      "edge": "raises the",
+      "source": "digital image she",
+      "target": "status quo",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "digital image she",
+      "target": "status quo",
+      "key": 1
+    },
+    {
+      "edge": "raises the",
+      "source": "digital image she",
+      "target": "also analogue debate",
+      "key": 0
+    },
+    {
+      "edge": "pursues the",
+      "source": "digital image she",
+      "target": "also analogue debate",
+      "key": 1
+    },
+    {
+      "edge": "serve as",
+      "source": "constructed  images",
+      "target": "works",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "constructed  images",
+      "target": "similarly  motif",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "constructed  images",
+      "target": "human shaped  dummies",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "constructed  images",
+      "target": "human shaped starting point",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "constructed  images",
+      "target": "human shaped starting humans",
+      "key": 0
+    },
+    {
+      "edge": "serve as",
+      "source": "constructed  images",
+      "target": "digital starting environment",
+      "key": 0
+    },
+    {
+      "edge": "take center",
+      "source": "largely androgynous  bodies",
+      "target": "center  stage",
+      "key": 0
+    },
+    {
+      "edge": "evokes a",
+      "source": "largely androgynous  bodies",
+      "target": "center  stage",
+      "key": 1
+    },
+    {
+      "edge": "take center",
+      "source": "largely androgynous  bodies",
+      "target": "commercial  worlds",
+      "key": 0
+    },
+    {
+      "edge": "evokes a",
+      "source": "largely androgynous  bodies",
+      "target": "commercial  worlds",
+      "key": 1
+    },
+    {
+      "edge": "take center",
+      "source": "largely androgynous  bodies",
+      "target": "pop advertising images",
+      "key": 0
+    },
+    {
+      "edge": "evokes a",
+      "source": "largely androgynous  bodies",
+      "target": "pop advertising images",
+      "key": 1
+    },
+    {
+      "edge": "acting as",
+      "source": "substitute human",
+      "target": "reflection",
+      "key": 0
+    },
+    {
+      "edge": "acting as",
+      "source": "substitute human",
+      "target": "reality",
+      "key": 0
+    },
+    {
+      "edge": "acting as",
+      "source": "substitute human",
+      "target": "simulation",
+      "key": 0
+    },
+    {
+      "edge": "leads to",
+      "source": "same  act",
+      "target": "cultural  strategies",
+      "key": 0
+    },
+    {
+      "edge": "leads to cultural",
+      "source": "same  act",
+      "target": "cultural  strategies",
+      "key": 1
+    },
+    {
+      "edge": "refers to",
+      "source": "title",
+      "target": "social  media",
+      "key": 0
+    },
+    {
+      "edge": "raises a",
+      "source": "virtual self it",
+      "target": "self representation",
+      "key": 0
+    },
+    {
+      "edge": "raises a",
+      "source": "virtual self it",
+      "target": "virtual self world",
+      "key": 0
+    },
+    {
+      "edge": "raises a",
+      "source": "virtual self it",
+      "target": "huge  discrepancy",
+      "key": 0
+    },
+    {
+      "edge": "raises a",
+      "source": "virtual self it",
+      "target": "huge  reality",
+      "key": 0
+    },
+    {
+      "edge": "reduce to",
+      "source": "They",
+      "target": "absurdity",
+      "key": 0
+    },
+    {
+      "edge": "reduce to",
+      "source": "They",
+      "target": "self esteem",
+      "key": 0
+    },
+    {
+      "edge": "reduce to",
+      "source": "They",
+      "target": "public self recognition",
+      "key": 0
+    },
+    {
+      "edge": "reduce to",
+      "source": "They",
+      "target": "public self appearance",
+      "key": 0
+    },
+    {
+      "edge": "reduce to",
+      "source": "They",
+      "target": "new self technologies",
+      "key": 0
+    },
+    {
+      "edge": "reduce to",
+      "source": "They",
+      "target": "changed fake body consciousness",
+      "key": 0
+    },
+    {
+      "edge": "reduce to",
+      "source": "conversely self they",
+      "target": "absurdity",
+      "key": 0
+    },
+    {
+      "edge": "reduce to",
+      "source": "conversely self they",
+      "target": "self esteem",
+      "key": 0
+    },
+    {
+      "edge": "reduce to",
+      "source": "conversely self they",
+      "target": "public self recognition",
+      "key": 0
+    },
+    {
+      "edge": "reduce to",
+      "source": "conversely self they",
+      "target": "public self ones",
+      "key": 0
+    },
+    {
+      "edge": "reduce to",
+      "source": "conversely self they",
+      "target": "public self appearance",
+      "key": 0
+    },
+    {
+      "edge": "reduce to",
+      "source": "conversely self they",
+      "target": "public self means",
+      "key": 0
+    },
+    {
+      "edge": "reduce to",
+      "source": "conversely self they",
+      "target": "new self technologies",
+      "key": 0
+    },
+    {
+      "edge": "fosters a",
+      "source": "Contact",
+      "target": "connection",
+      "key": 0
+    },
+    {
+      "edge": "fosters a",
+      "source": "Contact",
+      "target": "virtual  worlds",
+      "key": 0
+    },
+    {
+      "edge": "fosters a",
+      "source": "touchscreen",
+      "target": "skin",
+      "key": 0
+    },
+    {
+      "edge": "fosters a",
+      "source": "touchscreen",
+      "target": "connection",
+      "key": 0
+    },
+    {
+      "edge": "fosters a",
+      "source": "touchscreen",
+      "target": "virtual  worlds",
+      "key": 0
+    },
+    {
+      "edge": "answers to",
+      "source": "Here  visitor",
+      "target": "artificial  species",
+      "key": 0
+    },
+    {
+      "edge": "answers to",
+      "source": "Here  visitor",
+      "target": "artificial  conversation",
+      "key": 0
+    },
+    {
+      "edge": "answers to",
+      "source": "Here  visitor",
+      "target": "digital  being",
+      "key": 0
+    },
+    {
+      "edge": "answers to",
+      "source": "Here  visitor",
+      "target": "digital  questions",
+      "key": 0
+    },
+    {
+      "edge": "answers to",
+      "source": "Here  visitor",
+      "target": "algorithm",
+      "key": 0
+    },
+    {
+      "edge": "answers to",
+      "source": "digital  that",
+      "target": "artificial  species",
+      "key": 0
+    },
+    {
+      "edge": "answers to",
+      "source": "digital  that",
+      "target": "artificial  conversation",
+      "key": 0
+    },
+    {
+      "edge": "answers to",
+      "source": "digital  that",
+      "target": "digital  being",
+      "key": 0
+    },
+    {
+      "edge": "answers to",
+      "source": "digital  that",
+      "target": "digital  questions",
+      "key": 0
+    },
+    {
+      "edge": "answers to",
+      "source": "digital  that",
+      "target": "algorithm",
+      "key": 0
+    },
+    {
+      "edge": "was different",
+      "source": "bombardment",
+      "target": "early  hours",
+      "key": 0
+    },
+    {
+      "edge": "was different",
+      "source": "bombardment",
+      "target": "early  August",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "Soon  hundreds",
+      "target": "people",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "Soon  hundreds",
+      "target": "makeshift hospitals",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "Soon  hundreds",
+      "target": "makeshift houses",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "Soon  hundreds",
+      "target": "themselves",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "makeshift faces",
+      "target": "people",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "makeshift faces",
+      "target": "breathing problems",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "makeshift faces",
+      "target": "makeshift hospitals",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "makeshift faces",
+      "target": "makeshift houses",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "makeshift faces",
+      "target": "themselves",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "still  they",
+      "target": "people",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "still  they",
+      "target": "breathing problems",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "still  they",
+      "target": "makeshift hospitals",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "still  they",
+      "target": "makeshift houses",
+      "key": 0
+    },
+    {
+      "edge": "found dead",
+      "source": "still  they",
+      "target": "themselves",
+      "key": 0
+    },
+    {
+      "edge": "were short",
+      "source": "Those",
+      "target": "attack",
+      "key": 0
+    },
+    {
+      "edge": "were short",
+      "source": "Those",
+      "target": "breath",
+      "key": 0
+    },
+    {
+      "edge": "were short",
+      "source": "Those",
+      "target": "cramps",
+      "key": 0
+    },
+    {
+      "edge": "admitted to",
+      "source": "around 600  125",
+      "target": "area",
+      "key": 0
+    },
+    {
+      "edge": "admitted to",
+      "source": "around 600  125",
+      "target": "east  Damascus",
+      "key": 0
+    },
+    {
+      "edge": "admitted to",
+      "source": "around 600  125",
+      "target": "around 600  hospital",
+      "key": 0
+    },
+    {
+      "edge": "were clear",
+      "source": "sypmtoms",
+      "target": "clear indicators nerve gas",
+      "key": 0
+    },
+    {
+      "edge": "arrived alive",
+      "source": "first  victims",
+      "target": "gas",
+      "key": 0
+    },
+    {
+      "edge": "arrived alive",
+      "source": "first  victims",
+      "target": "longer  period",
+      "key": 0
+    },
+    {
+      "edge": "arrived alive",
+      "source": "first  victims",
+      "target": "longer  time",
+      "key": 0
+    },
+    {
+      "edge": "arrived alive",
+      "source": "first  victims",
+      "target": "that far  hospital",
+      "key": 0
+    },
+    {
+      "edge": "arrived alive",
+      "source": "many",
+      "target": "gas",
+      "key": 0
+    },
+    {
+      "edge": "arrived alive",
+      "source": "many",
+      "target": "longer  period",
+      "key": 0
+    },
+    {
+      "edge": "arrived alive",
+      "source": "many",
+      "target": "longer  time",
+      "key": 0
+    },
+    {
+      "edge": "arrived alive",
+      "source": "many",
+      "target": "that far  hospital",
+      "key": 0
+    },
+    {
+      "edge": "arrived alive",
+      "source": "that far  they",
+      "target": "gas",
+      "key": 0
+    },
+    {
+      "edge": "arrived alive",
+      "source": "that far  they",
+      "target": "longer  period",
+      "key": 0
+    },
+    {
+      "edge": "arrived alive",
+      "source": "that far  they",
+      "target": "longer  time",
+      "key": 0
+    },
+    {
+      "edge": "arrived alive",
+      "source": "that far  they",
+      "target": "that far  hospital",
+      "key": 0
+    },
+    {
+      "edge": "in the",
+      "source": "week long  which",
+      "target": "week long  England",
+      "key": 0
+    },
+    {
+      "edge": "document the",
+      "source": "week long  which",
+      "target": "week long  England",
+      "key": 1
+    },
+    {
+      "edge": "in the",
+      "source": "week long  which",
+      "target": "week long  Ireland",
+      "key": 0
+    },
+    {
+      "edge": "in the",
+      "source": "week long  which",
+      "target": "week long  Alps",
+      "key": 0
+    },
+    {
+      "edge": "in the",
+      "source": "week long  which",
+      "target": "week long  deserts",
+      "key": 0
+    },
+    {
+      "edge": "in the",
+      "source": "week long  which",
+      "target": "week long  Africa",
+      "key": 0
+    },
+    {
+      "edge": "in the",
+      "source": "week long  which",
+      "target": "first  line",
+      "key": 0
+    },
+    {
+      "edge": "in the",
+      "source": "week long  which",
+      "target": "everywhere  world",
+      "key": 0
+    },
+    {
+      "edge": "in the",
+      "source": "week long  which",
+      "target": "everywhere  themselves",
+      "key": 0
+    },
+    {
+      "edge": "document the",
+      "source": "week long  which",
+      "target": "everywhere  themselves",
+      "key": 1
+    },
+    {
+      "edge": "in the",
+      "source": "week long  which",
+      "target": "physical  presence",
+      "key": 0
+    },
+    {
+      "edge": "document the",
+      "source": "week long  which",
+      "target": "physical  presence",
+      "key": 1
+    },
+    {
+      "edge": "reports from",
+      "source": "Associated Press",
+      "target": "Saigon",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "only  students",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "only Kent State",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "only Vietnam protest",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "many Vietnam statements",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "many Vietnam entropy",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "many Vietnam 1960s",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "Durants paralel",
+      "target": "when Vietnam change",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "symbolic historian  comparison",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "symbolic historian  idea",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "symbolic historian  Simpson",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "only  students",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "only Kent State",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "only Vietnam protest",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "many Vietnam statements",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "many Vietnam entropy",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "many Vietnam 1960s",
+      "key": 0
+    },
+    {
+      "edge": "touches the",
+      "source": "when Vietnam Durant",
+      "target": "when Vietnam change",
+      "key": 0
+    },
+    {
+      "edge": "born of",
+      "source": "problematic land that",
+      "target": "land art",
+      "key": 0
+    },
+    {
+      "edge": "born of",
+      "source": "problematic land that",
+      "target": "problematic land field",
+      "key": 0
+    },
+    {
+      "edge": "opens the",
+      "source": "problematic land that",
+      "target": "problematic land field",
+      "key": 1
+    },
+    {
+      "edge": "born of",
+      "source": "problematic land that",
+      "target": "political  impact",
+      "key": 0
+    },
+    {
+      "edge": "opens the",
+      "source": "problematic land that",
+      "target": "political  impact",
+      "key": 1
+    },
+    {
+      "edge": "discloses a",
+      "source": "What",
+      "target": "broken glass stones",
+      "key": 0
+    },
+    {
+      "edge": "discloses a",
+      "source": "What",
+      "target": "horrible glass secret",
+      "key": 0
+    },
+    {
+      "edge": "exist in",
+      "source": "Sarin",
+      "target": "therefore Louisa genealogy",
+      "key": 0
+    },
+    {
+      "edge": "express a",
+      "source": "Sarin",
+      "target": "therefore Louisa genealogy",
+      "key": 1
+    },
+    {
+      "edge": "exist in",
+      "source": "Sarin",
+      "target": "materiality",
+      "key": 0
+    },
+    {
+      "edge": "express a",
+      "source": "Sarin",
+      "target": "materiality",
+      "key": 1
+    },
+    {
+      "edge": "exist in",
+      "source": "Sarin",
+      "target": "political  consequence",
+      "key": 0
+    },
+    {
+      "edge": "express a",
+      "source": "Sarin",
+      "target": "political  consequence",
+      "key": 1
+    },
+    {
+      "edge": "exist in",
+      "source": "Sarin",
+      "target": "political  action",
+      "key": 0
+    },
+    {
+      "edge": "express a",
+      "source": "Sarin",
+      "target": "political  action",
+      "key": 1
+    },
+    {
+      "edge": "exist in",
+      "source": "time stamping Louisa contents",
+      "target": "political  consequence",
+      "key": 0
+    },
+    {
+      "edge": "express a",
+      "source": "time stamping Louisa contents",
+      "target": "political  consequence",
+      "key": 1
+    },
+    {
+      "edge": "exist in",
+      "source": "time stamping Louisa contents",
+      "target": "political  action",
+      "key": 0
+    },
+    {
+      "edge": "express a",
+      "source": "time stamping Louisa contents",
+      "target": "political  action",
+      "key": 1
+    },
+    {
+      "edge": "happen in",
+      "source": "invasion",
+      "target": "reality",
+      "key": 0
+    },
+    {
+      "edge": "happen in",
+      "source": "invasion",
+      "target": "imaginary",
+      "key": 0
+    }
+  ]
+}

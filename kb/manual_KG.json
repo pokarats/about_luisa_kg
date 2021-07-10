@@ -1,0 +1,397 @@
+[
+  {
+    "edge": "belongs to",
+    "source": "Louisa Clement",
+    "target": "conceptual art"
+  },
+  {
+    "edge": "covers the period",
+    "source": "conceptual art",
+    "target": "1960s"
+  },
+  {
+    "edge": "covers the period",
+    "source": "conceptual art",
+    "target": "1970s"
+  },
+  {
+    "edge": "usesMedium",
+    "source": "Louisa Clement",
+    "target": "IPhone5"
+  },
+  {
+    "edge": "has",
+    "source": "IPhone5",
+    "target": "shallow depth of field of the picture"
+  },
+  {
+    "edge": "depicts",
+    "source": "Louisa Clement",
+    "target": "everyday objects"
+  },
+  {
+    "edge": "motif",
+    "source": "Louisa Clement",
+    "target": "artificial interventions"
+  },
+  {
+    "edge": "motif",
+    "source": "Louisa Clement",
+    "target": "boundary between human and artificial humanity border"
+  },
+  {
+    "edge": "motif",
+    "source": "Louisa Clement",
+    "target": "new human"
+  },
+  {
+    "edge": "creates",
+    "source": "Louisa Clement",
+    "target": "heads"
+  },
+  {
+    "edge": "is a",
+    "source": "Heads",
+    "target": "artwork"
+  },
+  {
+    "edge": "belongs to",
+    "source": "Heads",
+    "target": "conceptual art"
+  },
+  {
+    "edge": "date of creation",
+    "source": "Heads",
+    "target": "2014-2015"
+  },
+  {
+    "edge": "depicts",
+    "source": "Heads",
+    "target": "shop-window mannequins heads"
+  },
+  {
+    "edge": "amount",
+    "source": "shop-window mannequins heads",
+    "target": "55"
+  },
+  {
+    "edge": "are located",
+    "source": "shop-window mannequins heads",
+    "target": "stores"
+  },
+  {
+    "edge": "are located",
+    "source": "stores",
+    "target": "Europe"
+  },
+  {
+    "edge": "type",
+    "source": "stores",
+    "target": "fashion"
+  },
+  {
+    "edge": "gender",
+    "source": "shop-window mannequins heads",
+    "target": "sexless"
+  },
+  {
+    "edge": "art form",
+    "source": "Heads",
+    "target": "collection of photos"
+  },
+  {
+    "edge": "consists of",
+    "source": "Collection of photos",
+    "target": "55 photos"
+  },
+  {
+    "edge": "covers the theme",
+    "source": "Heads",
+    "target": "the human body"
+  },
+  {
+    "edge": "covers the theme",
+    "source": "Heads",
+    "target": "human-machine opposition"
+  },
+  {
+    "edge": "covers the theme",
+    "source": "Heads",
+    "target": "boundaries of human and artificial"
+  },
+  {
+    "edge": "covers the theme",
+    "source": "Heads",
+    "target": "new human"
+  },
+  {
+    "edge": "message",
+    "source": "Heads",
+    "target": "sightless heads stand for a society fixated on outward appearances"
+  },
+  {
+    "edge": "message",
+    "source": "Heads",
+    "target": "humans have turned into goods"
+  },
+  {
+    "edge": "depicts",
+    "source": "Heads",
+    "target": "no specific image of the women"
+  },
+  {
+    "edge": "background",
+    "source": "Heads",
+    "target": "Hans Bellmer"
+  },
+  {
+    "edge": "creates",
+    "source": "Hans Bellmer",
+    "target": "live-sized dolls"
+  },
+  {
+    "edge": "date of creation",
+    "source": "live-sized dolls",
+    "target": "1930s"
+  },
+  {
+    "edge": "creates",
+    "source": "Louisa Clement",
+    "target": "on one\u2019s way"
+  },
+  {
+    "edge": "is a",
+    "source": "on one\u2019s way",
+    "target": "artwork"
+  },
+  {
+    "edge": "date of creation",
+    "source": "on one\u2019s way",
+    "target": "2012-2013"
+  },
+  {
+    "edge": "art form",
+    "source": "on one\u2019s way",
+    "target": "collection of photos"
+  },
+  {
+    "edge": "depicts",
+    "source": "on one\u2019s way",
+    "target": "train interiors"
+  },
+  {
+    "edge": "depicts",
+    "source": "on one\u2019s way",
+    "target": "seats"
+  },
+  {
+    "edge": "depicts",
+    "source": "on one\u2019s way",
+    "target": "windows"
+  },
+  {
+    "edge": "depicts",
+    "source": "on one\u2019s way",
+    "target": "doorsteps"
+  },
+  {
+    "edge": "depicts",
+    "source": "on one\u2019s way",
+    "target": "floor pattern"
+  },
+  {
+    "edge": "post-production technique",
+    "source": "on one\u2019s way",
+    "target": "perspective"
+  },
+  {
+    "edge": "depicted using methods",
+    "source": "train interiors",
+    "target": "perspective"
+  },
+  {
+    "edge": "creates an effect",
+    "source": "perspective",
+    "target": "moments of reality dissolve in geometric abstract compositions"
+  },
+  {
+    "edge": "message",
+    "source": "on one\u2019s way",
+    "target": "transformation of the visual experience of everyday things"
+  },
+  {
+    "edge": "leads to",
+    "source": "transformation of the visual experience of everyday things",
+    "target": "contemplative consideration"
+  },
+  {
+    "edge": "creates",
+    "source": "Louisa Clement",
+    "target": "Transformationsschnitt"
+  },
+  {
+    "edge": "date of creation",
+    "source": "Transformationsschnitt",
+    "target": "2015"
+  },
+  {
+    "edge": "is a",
+    "source": "Transformationsschnitt",
+    "target": "artwork"
+  },
+  {
+    "edge": "art form",
+    "source": "Transformationsschnitt",
+    "target": "installation"
+  },
+  {
+    "edge": "consists of",
+    "source": "Transformationsschnitt",
+    "target": "jet-black glass stones"
+  },
+  {
+    "edge": "are",
+    "source": "jet-black glass stones",
+    "target": "decomposition of chemical weapons"
+  },
+  {
+    "edge": "combined with",
+    "source": "Transformationsschnitt",
+    "target": "sound installation"
+  },
+  {
+    "edge": "covers the theme",
+    "source": "Transformationsschnitt",
+    "target": "the usage of chemical weapons in Syrian conflict"
+  },
+  {
+    "edge": "covers the theme",
+    "source": "Transformationsschnitt",
+    "target": "bombardment"
+  },
+  {
+    "edge": "location",
+    "source": "bombardment",
+    "target": "Syria"
+  },
+  {
+    "edge": "part of",
+    "source": "east of Damaskus",
+    "target": "Syria"
+  },
+  {
+    "edge": "time",
+    "source": "bombardment",
+    "target": "August 21"
+  },
+  {
+    "edge": "weapon used",
+    "source": "bombardment",
+    "target": "nerve gas poisoning"
+  },
+  {
+    "edge": "causes",
+    "source": "nerve gas poisoning",
+    "target": "cramps"
+  },
+  {
+    "edge": "causes",
+    "source": "nerve gas poisoning",
+    "target": "foaming in nose and mouth"
+  },
+  {
+    "edge": "causes",
+    "source": "nerve gas poisoning",
+    "target": "reduced pupils"
+  },
+  {
+    "edge": "results in",
+    "source": "bombardment",
+    "target": "600 people in hospital"
+  },
+  {
+    "edge": "results in",
+    "source": "bombardment",
+    "target": "125 dead people"
+  },
+  {
+    "edge": "message",
+    "source": "Transformationsschnitt",
+    "target": "jet-black glass stones are sublime and attractive"
+  },
+  {
+    "edge": "belongs to",
+    "source": "Transformationsschnitt",
+    "target": "land art"
+  },
+  {
+    "edge": "idea",
+    "source": "Land art",
+    "target": "political and aesthetic impact of sculpture"
+  },
+  {
+    "edge": "belongs to",
+    "source": "Sam Durant",
+    "target": "land art"
+  },
+  {
+    "edge": "belongs to",
+    "source": "Robert Smithson",
+    "target": "land art"
+  },
+  {
+    "edge": "belongs to",
+    "source": "Richard Long",
+    "target": "land art"
+  },
+  {
+    "edge": "belongs to",
+    "source": "Sarin",
+    "target": "land art"
+  },
+  {
+    "edge": "creates",
+    "source": "Louisa Clement",
+    "target": "fracture"
+  },
+  {
+    "edge": "date of creation",
+    "source": "Fracture",
+    "target": ""
+  },
+  {
+    "edge": "is a",
+    "source": "Fracture",
+    "target": "artwork"
+  },
+  {
+    "edge": "creates",
+    "source": "Louisa Clement",
+    "target": "portrait"
+  },
+  {
+    "edge": "date of creation",
+    "source": "Portrait",
+    "target": ""
+  },
+  {
+    "edge": "is a",
+    "source": "Portrait",
+    "target": "artwork"
+  },
+  {
+    "edge": "creates",
+    "source": "Louisa Clement",
+    "target": "avatar"
+  },
+  {
+    "edge": "date of creation",
+    "source": "Avatar",
+    "target": ""
+  },
+  {
+    "edge": "is a",
+    "source": "Avatar",
+    "target": "artwork"
+  }
+]

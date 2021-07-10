@@ -1,0 +1,457 @@
+{
+    "directed": true,
+    "multigraph": true,
+    "graph": {},
+    "links": [
+        {
+            "edge": "tied to",
+            "source": "Closely  elimination",
+            "target": "political  art",
+            "key": 0
+        },
+        {
+            "edge": "is the",
+            "source": "Closely  elimination",
+            "target": "political  art",
+            "key": 1
+        },
+        {
+            "edge": "cruelty with",
+            "source": "Disasters",
+            "target": "War",
+            "key": 0
+        },
+        {
+            "edge": "cruelty with",
+            "source": "Disasters",
+            "target": "political  opponents",
+            "key": 0
+        },
+        {
+            "edge": "cruelty with",
+            "source": "inhuman",
+            "target": "War",
+            "key": 0
+        },
+        {
+            "edge": "cruelty with",
+            "source": "inhuman",
+            "target": "political  opponents",
+            "key": 0
+        },
+        {
+            "edge": "was apparent",
+            "source": "paintings",
+            "target": "UNMOVIC weapons inspectors",
+            "key": 0
+        },
+        {
+            "edge": "was apparent",
+            "source": "paintings",
+            "target": "international UNMOVIC weapons media",
+            "key": 0
+        },
+        {
+            "edge": "was apparent",
+            "source": "paintings",
+            "target": "international UNMOVIC weapons strategies",
+            "key": 0
+        },
+        {
+            "edge": "was apparent",
+            "source": "paintings",
+            "target": "possible UNMOVIC weapons war",
+            "key": 0
+        },
+        {
+            "edge": "was apparent",
+            "source": "paintings",
+            "target": "possible UNMOVIC weapons Iraq",
+            "key": 0
+        },
+        {
+            "edge": "was apparent",
+            "source": "Colin Powell",
+            "target": "international UNMOVIC weapons media",
+            "key": 0
+        },
+        {
+            "edge": "was apparent",
+            "source": "Colin Powell",
+            "target": "possible UNMOVIC weapons war",
+            "key": 0
+        },
+        {
+            "edge": "was responsible for",
+            "source": "chemist",
+            "target": "poison gas development",
+            "key": 0
+        },
+        {
+            "edge": "was responsible for",
+            "source": "chemist",
+            "target": "first poison gas use",
+            "key": 0
+        },
+        {
+            "edge": "was in",
+            "source": "poison that",
+            "target": "poison gas",
+            "key": 0
+        },
+        {
+            "edge": "was in",
+            "source": "poison that",
+            "target": "rapid  development",
+            "key": 0
+        },
+        {
+            "edge": "was in",
+            "source": "poison that",
+            "target": "aerial  reconnaissance",
+            "key": 0
+        },
+        {
+            "edge": "was in",
+            "source": "poison that",
+            "target": "necessary  enemy",
+            "key": 0
+        },
+        {
+            "edge": "was in",
+            "source": "poison that",
+            "target": "artillery batteries",
+            "key": 0
+        },
+        {
+            "edge": "made good",
+            "source": "German  firms",
+            "target": "money",
+            "key": 0
+        },
+        {
+            "edge": "caused",
+            "source": "German  firms",
+            "target": "death",
+            "key": 0
+        },
+        {
+            "edge": "developed in",
+            "source": "mustard Haber poison",
+            "target": "Germany",
+            "key": 0
+        },
+        {
+            "edge": "developed",
+            "source": "Haber",
+            "target": "mustard gas",
+            "key": 0
+        },
+        {
+            "edge": "used as",
+            "source": "mustard Haber poison",
+            "target": "invisible World War weapon",
+            "key": 0
+        },
+        {
+            "edge": "contributed in",
+            "source": "art",
+            "target": "many  history",
+            "key": 0
+        },
+        {
+            "edge": "contributed in many",
+            "source": "art",
+            "target": "human  existence",
+            "key": 1
+        },
+        {
+            "edge": "contributed in",
+            "source": "art",
+            "target": "modern  age",
+            "key": 0
+        },
+        {
+            "edge": "relates on",
+            "source": "Clement",
+            "target": "relationship",
+            "key": 0
+        },
+        {
+            "edge": "relates on",
+            "source": "Clement",
+            "target": "early  modernity",
+            "key": 0
+        },
+        {
+            "edge": "relates on",
+            "source": "Clement",
+            "target": "human  body",
+            "key": 0
+        },
+        {
+            "edge": "relates on",
+            "source": "Clement",
+            "target": "humanist plastic representative",
+            "key": 0
+        },
+        {
+            "edge": "raises the",
+            "source": "Clement",
+            "target": "status quo",
+            "key": 0
+        },
+        {
+            "edge": "pursues the",
+            "source": "Clement",
+            "target": "status quo",
+            "key": 1
+        },
+        {
+            "edge": "work with",
+            "source": "Clement",
+            "target": "war zones",
+            "key": 0
+        },
+        {
+            "edge": "work with",
+            "source": "Clement",
+            "target": "war dead",
+            "key": 0
+        },
+        {
+            "edge": "turning into",
+            "source": "extent armed combat conflicts",
+            "target": "military  operations",
+            "key": 0
+        },
+        {
+            "edge": "turning into",
+            "source": "extent armed combat conflicts",
+            "target": "life problem",
+            "key": 0
+        },
+        {
+            "edge": "turning into",
+            "source": "extent armed combat conflicts",
+            "target": "Playstation mentality",
+            "key": 0
+        },
+        {
+            "edge": "turning into",
+            "source": "extent armed combat conflicts",
+            "target": "combat drones",
+            "key": 0
+        },
+        {
+            "edge": "turning into",
+            "source": "extent armed combat conflicts",
+            "target": "real video game",
+            "key": 0
+        },
+        {
+            "edge": "call upon",
+            "source": "State  institutions",
+            "target": "human  body",
+            "key": 0
+        },
+        {
+            "edge": "halt the",
+            "source": "State  institutions",
+            "target": "human  body",
+            "key": 1
+        },
+        {
+            "edge": "call upon",
+            "source": "State  institutions",
+            "target": "human  identity",
+            "key": 0
+        },
+        {
+            "edge": "halt the",
+            "source": "State  institutions",
+            "target": "human  identity",
+            "key": 1
+        },
+        {
+            "edge": "call upon",
+            "source": "State  institutions",
+            "target": "trend",
+            "key": 0
+        },
+        {
+            "edge": "halt the",
+            "source": "State  institutions",
+            "target": "trend",
+            "key": 1
+        },
+        {
+            "edge": "call upon",
+            "source": "State  institutions",
+            "target": "disembodiment",
+            "key": 0
+        },
+        {
+            "edge": "halt the",
+            "source": "State  institutions",
+            "target": "disembodiment",
+            "key": 1
+        },
+        {
+            "edge": "captured from",
+            "source": "unique  website",
+            "target": "historic  reference",
+            "key": 0
+        },
+        {
+            "edge": "captured from",
+            "source": "photographic  which",
+            "target": "historic  reference",
+            "key": 0
+        },
+        {
+            "edge": "takes",
+            "source": "Louisa Clement",
+            "target": "ethical self doubt",
+            "key": 0
+        },
+        {
+            "edge": "takes",
+            "source": "Louisa Clement",
+            "target": "ethical self climax",
+            "key": 0
+        },
+        {
+            "edge": "are easy",
+            "source": "objects",
+            "target": "reality",
+            "key": 0
+        },
+        {
+            "edge": "are easy",
+            "source": "moments",
+            "target": "reality",
+            "key": 0
+        },
+        {
+            "edge": "turns to",
+            "source": "former  power",
+            "target": "seduction",
+            "key": 0
+        },
+        {
+            "edge": "vanishing from",
+            "source": "image",
+            "target": "oriented social balance order",
+            "key": 0
+        },
+        {
+            "edge": "is about",
+            "source": "discussion",
+            "target": "1980s",
+            "key": 0
+        },
+        {
+            "edge": "associated with",
+            "source": "concepts",
+            "target": "conversation",
+            "key": 0
+        },
+        {
+            "edge": "associated with",
+            "source": "concepts",
+            "target": "1960s",
+            "key": 0
+        },
+        {
+            "edge": "associated with",
+            "source": "concepts",
+            "target": "inclusion",
+            "key": 0
+        },
+        {
+            "edge": "associated with",
+            "source": "concepts",
+            "target": "history",
+            "key": 0
+        },
+        {
+            "edge": "associated with",
+            "source": "concepts",
+            "target": "art",
+            "key": 0
+        },
+        {
+            "edge": "is the",
+            "source": "artist",
+            "target": "contemporary sociopolitical  questioning",
+            "key": 0
+        },
+        {
+            "edge": "is the",
+            "source": "contemporary sociopolitical  approach",
+            "target": "analysis",
+            "key": 0
+        },
+        {
+            "edge": "is the",
+            "source": "contemporary sociopolitical  approach",
+            "target": "photographic  works",
+            "key": 0
+        },
+        {
+            "edge": "is the",
+            "source": "contemporary sociopolitical  approach",
+            "target": "medium specific  concept",
+            "key": 0
+        },
+        {
+            "edge": "is the",
+            "source": "contemporary sociopolitical  approach",
+            "target": "two dimensional  photograph",
+            "key": 0
+        },
+        {
+            "edge": "is the",
+            "source": "contemporary sociopolitical  approach",
+            "target": "two dimensional  times",
+            "key": 0
+        },
+        {
+            "edge": "is the",
+            "source": "contemporary sociopolitical  approach",
+            "target": "contemporary sociopolitical  questioning",
+            "key": 0
+        },
+        {
+            "edge": "traces an",
+            "source": "technology engagement",
+            "target": "network",
+            "key": 0
+        },
+        {
+            "edge": "is detectable",
+            "source": "technology engagement",
+            "target": "mass market product",
+            "key": 0
+        },
+        {
+            "edge": "is detectable",
+            "source": "technology engagement",
+            "target": "viewers associations",
+            "key": 0
+        },
+        {
+            "edge": "touches the",
+            "source": "technology engagement",
+            "target": "symbolic historian  comparison",
+            "key": 0
+        },
+        {
+            "edge": "touches the",
+            "source": "technology engagement",
+            "target": "symbolic historian  idea",
+            "key": 0
+        }
+    ]
+}

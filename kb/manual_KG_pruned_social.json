@@ -1,0 +1,127 @@
+[
+  {
+    "edge": "motif",
+    "source": "Louisa Clement",
+    "target": "artificial interventions"
+  },
+  {
+    "edge": "motif",
+    "source": "Louisa Clement",
+    "target": "boundary between human and artificial humanity border"
+  },
+  {
+    "edge": "motif",
+    "source": "Louisa Clement",
+    "target": "new human"
+  },
+  {
+    "edge": "covers the theme",
+    "source": "Heads",
+    "target": "the human body"
+  },
+  {
+    "edge": "covers the theme",
+    "source": "Heads",
+    "target": "human-machine opposition"
+  },
+  {
+    "edge": "covers the theme",
+    "source": "Heads",
+    "target": "boundaries of human and artificial"
+  },
+  {
+    "edge": "covers the theme",
+    "source": "Heads",
+    "target": "new human"
+  },
+  {
+    "edge": "message",
+    "source": "Heads",
+    "target": "sightless heads stand for a society fixated on outward appearances"
+  },
+  {
+    "edge": "message",
+    "source": "Heads",
+    "target": "humans have turned into goods"
+  },
+  {
+    "edge": "depicts",
+    "source": "Heads",
+    "target": "no specific image of the women"
+  },
+  {
+    "edge": "message",
+    "source": "on one's way",
+    "target": "transformation of the visual experience of everyday things"
+  },
+  {
+    "edge": "leads to",
+    "source": "transformation of the visual experience of everyday things",
+    "target": "contemplative consideration"
+  },
+  {
+    "edge": "are",
+    "source": "jet-black glass stones",
+    "target": "decomposition of chemical weapons"
+  },
+  {
+    "edge": "covers the theme",
+    "source": "Transformationsschnitt",
+    "target": "the usage of chemical weapons in Syrian conflict"
+  },
+  {
+    "edge": "covers the theme",
+    "source": "Transformationsschnitt",
+    "target": "bombardment"
+  },
+  {
+    "edge": "location",
+    "source": "bombardment",
+    "target": "Syria"
+  },
+  {
+    "edge": "part of",
+    "source": "east of Damaskus",
+    "target": "Syria"
+  },
+  {
+    "edge": "time",
+    "source": "bombardment",
+    "target": "August 21"
+  },
+  {
+    "edge": "weapon used",
+    "source": "bombardment",
+    "target": "nerve gas poisoning"
+  },
+  {
+    "edge": "causes",
+    "source": "nerve gas poisoning",
+    "target": "cramps"
+  },
+  {
+    "edge": "causes",
+    "source": "nerve gas poisoning",
+    "target": "foaming in nose and mouth"
+  },
+  {
+    "edge": "causes",
+    "source": "nerve gas poisoning",
+    "target": "reduced pupils"
+  },
+  {
+    "edge": "results in",
+    "source": "bombardment",
+    "target": "600 patients in hospital"
+  },
+  {
+    "edge": "results in",
+    "source": "bombardment",
+    "target": "125 dead people"
+  },
+  {
+    "edge": "idea",
+    "source": "Land art",
+    "target": "political and aesthetic impact of sculpture"
+  }
+]
