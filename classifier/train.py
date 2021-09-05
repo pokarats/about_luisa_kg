@@ -1,3 +1,4 @@
+from numpy import save
 import torch
 import torch.nn as nn
 import pickle
@@ -72,3 +73,4 @@ class Model(nn.Module):
 
 model = Model()
 model.trainModel(data, 1000)
+torch.save(model, "classifier_model.pt")

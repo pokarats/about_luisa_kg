@@ -7,14 +7,18 @@ model = AutoModel.from_pretrained("sentence-transformers/bert-base-nli-cls-token
 model.train(False)
 data = []
 
-with open("responses_ann_new.txt", encoding="UTF-8") as f:
-    datapoints = [x.strip().split(';') for x in f.readlines()]
-    datapoints = [(txt, float(x)) for txt, x in datapoints]
+with open("other_responses.txt", encoding="UTF-8") as f:
+    datapoints = [x.strip().split('#') for x in f.readlines()]
+    try:
+        datapoints = [(txt, float(x)) for txt, x in datapoints]
+    except:
+        for txt, x in datapoints:
+            print(txt)
 
 for a, b in datapoints:
     encoded_input = tokenizer(a, padding=True, truncation=True, max_length=128, return_tensors='pt')
     output = model(**encoded_input)
     data.append((output[0][0, 0].float(), np.float32(b)))
-with open("reponses_encoded.pickle_tmp", "wb") as f:
+with open("other_reponses_encoded.pickle_tmp", "wb") as f:
     pickler = pickle.Pickler(f)
     pickler.dump(data)
