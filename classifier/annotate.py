@@ -77,14 +77,18 @@ class Model(nn.Module):
             
     def annotate(self, other_data):
         with open("other_responses.txt", "r") as fread:
-            with open("other_responses_ann.txt", "w") as fwrite:
+            with open("other_responses_ann_2.txt", "w") as fwrite:
                 self.train(False)
+                threshold = 0.5
                 for sample, dummy_annotation in other_data:
                     with torch.no_grad():
                         output = self(sample)
-                        print(output)
-                        ann = "#".join((fread.readline(), output))
-                        fwrite.write(ann)
+                    if output >= threshold:
+                        ann = "".join((fread.readline()[:-2], "1", "\n"))
+                    else:
+                        ann = "".join((fread.readline()[:-2], "0", "\n"))
+                    print(ann)
+                    fwrite.write(ann)
 
 
 model = Model()
