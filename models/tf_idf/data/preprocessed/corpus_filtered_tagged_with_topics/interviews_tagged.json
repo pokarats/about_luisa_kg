@@ -1,0 +1,200 @@
+[
+  {
+    "ID": "1",
+    "question": "In 2015 you graduated at Kunstakademie Düsserldorf as a master student of Andreas Gursky. What is the most important thing you learnt from him?",
+    "<answer>": "Gursky teached me to find my own way as an artist, to deal with the point of time and questioning the relevant of the topics I was dealing with, what is it worth to be an art piece? He forced me to be straight and claim for a high level of content and visually.",
+    "topics": ["inspiration", "art school", "artistic idea"]
+  },
+  {
+    "ID": "2",
+    "question": "Where does your interest in the objectification of the human body come from?",
+    "<answer>": "The human body is the smallest room you as an individual has to deal with. This room is set in the space around you. I am trying to trying to find the line between being inside of this room and outside, what is impact you have on the outside and of other individuals. I choose the present and the absent of the body because i think this is one of the most changing and stabile topics at the same time in our society at the same time.",
+    "topics": ["inspiratoin", "social context", "new human", "human body", "boundaries of human"]
+  },
+  {
+    "ID": "3",
+    "question": "Why did you choose to take photos using the camera on your iPhone instead of using a digital/analog camera?",
+    "<answer>": "Most of my topics and ideas are coming from the daily live and also digital communication is a topic i am questionings a lot. For some the smart phone is a big part where this takes place so for me it is a logical and consequent step to work with the phone not only as the place of inspiration, but also as a part of the production.",
+    "topics": ["inspiration", "social context", "philosophy", "production"]
+  },
+  {
+    "ID": "4",
+    "question": "In January Cassina Projects presented an exhibition titled Area Caproni u8opia, a two person show conceived by the dialogue between your work and Georg Herold's. What is the meaning of the title?",
+    "<answer>": "The Title refers to the area where the Gallery is and the Flight Number of our first flight to Milan. We decided to chose that title because that place is the pace where we show this dialogue for the first time.",
+    "topics": ["artistic idea", "exhibition", "art work description", "topics of work"]
+  },
+  {
+    "ID": "5",
+    "question": "You work with different mediums including photography, video, sculpture and VR. Which medium do you think is the most powerful and gives best voice to your works?",
+    "<answer>": "The medium is always related to the content of the work, so I’m always trying to find the best medium for the questions i am dealing with. There is not really one medium I prefer, it is a question on process and reflection which leads me to the work as it is in the end.",
+    "topics": ["medium", "production", "philosophy"]
+  },
+  {
+    "ID": "6",
+    "question": "A new sculptural work is part of the show Area Caproni u8opia. Do you want to tell us more about this sculpture in particular?",
+    "<answer>": "The new sculptures came from an artistic research about the borders of human relationships now a days what changed during the last years and how are we integrate artificiality and absence in our way of thinking, treating and interacting. That leads me to sex dolls and the question of an image your counterpart has to fit in. I was interested in the line between imagination and reality. What kind of image you fill in a person, how big is the part of imagination? I saw the border in the production moulds of sex dolls, these edge between the part where the material for the body will be filled in and the frame which holds the two mould together. These Edge is for me that line.",
+    "topics": ["artistic idea", "inspiration", "human body", "boundaries of human"]
+  },
+  {
+    "ID": "7",
+    "question": "Your work spanning across photography, sculpture, video and VR, underscores how homologation and standardization jeopardize what’s left of individuality. Where is the incessant transformation taking us to next?",
+    "<answer>": "The Avatar series plays with the tension between their artificiality and their otherwise human postures. the way the mannequins seem to have a physical interaction comes across as eerie, yet almost comforting. While the digital and the virtual are reshaping our individuality and behavioral patterns.",
+    "topics": ["human-machine opposition", "artistic idea", "social context", "series", "philosophy"]
+  },
+  {
+    "ID": "8",
+    "question": "Are mannequins themselves evolving by emulating our nature?",
+    "<answer>": "The mannequin in my work are placeholders, they describes in that series something related to the human being but not being human. That is what the Avatar is for us in the digital world.  These mannequin bodies I am using make these questions on behavior, individuality and perhaps reality, a doubt of engagement, seriousness and sometimes misunderstandings visual.",
+    "topics": ["human-machine opposition", "series", "human body", "boundaries of human", "art work description", "philosophy"]
+  },
+  {
+    "ID": "9",
+    "question": "What got you into making art?",
+    "<answer>": "Actually there no specific point, I was always dealing with art on different levels, so there was never something like a decision to make art, it was the logical step to study art and make art.",
+    "topics": ["inspiration", "artistic idea", "plan", "production"]
+  },
+  {
+    "ID": "10",
+    "question": "What are your inspirations?",
+    "<answer>": "My inspirations are the daily life and experience from that as newspaper articles, researches and books.",
+    "topics": ["inspiration", "social context", "artistic idea"]
+  },
+  {
+    "ID": "11",
+    "question": "Your work embraces VR and new technology, can you tell me about that?",
+    "<answer>": "To me technology I a tool to transfer a content into an art piece, so If I have an idea in mind a content for an art piece I am searching for the strongest medium to form that content.",
+    "topics": ["medium", "topics of work", "production", "social context", "inspiration"]
+  },
+  {
+    "ID": "12",
+    "question": "Can you tell me a little about your use of avatars and mannequins?",
+    "<answer>": "The avatar is a digital identity, as I am dealing a lot with communication and digital communication in my work, mostly the question how the way of communication affected us and what is the meaning of the way we use to communicate. To make situation of communication visual I used mannequins, because the avatar is actually nothing really visual for me. I decided to use mannequins because I want to have the questions I am dealing with in my work generalized and not connected to one special person or me.",
+    "topics": ["inspiration", "social context", "human body", "artistic idea", "medium", "topics of work"]
+  },
+  {
+    "ID": "13",
+    "question": "What advice would you give to young women wanting to make a career as an artist?",
+    "<answer>": "I would advise to every young person, to work hard, concentrate on the work and questioning yourself what is worth to be an art work in terms of content and intention. See as much art as possible and reflect the world you are living in.",
+    "topics": ["fellowship", "art school", "philosophy"]
+  },
+  {
+    "ID": "14",
+    "question": "What have you been up to in quarantine?",
+    "<answer>": "I was very concentrated in working in my studio and preparing everything for the next exhibitions.",
+    "topics": ["exhibition organization", "exhibition", "current work", "production"]
+  },
+  {
+    "ID": "15",
+    "question": "What are your plans and hopes for the future?",
+    "<answer>": "I hope to expand my skills in terms of research, media and content, finding new questions about the world we are living in and how we are dealing with it, during our time.",
+    "topics": ["plan", "fellowship", "social context"]
+  },
+  {
+    "ID": "16",
+    "question": "Can you first tell me how you chose to become a photographer and what led you to working with Professor Andreas Gursky?",
+    "<answer>": "I didn’t choose to become a photographer, I am an artist. But of course for me photography developed into the main medium with which I transform content into something visualized. At Kunstakademie Düsseldorf, he teaches what is called an \"open class\" (Freie Kunst), which is not explicitly a photography class. The focus in Gursky’s teaching was always about having a strong connection between content and visual quality.",
+    "topics": ["art school", "artistic idea", "medium"]
+  },
+  {
+    "ID": "17",
+    "question": "Has the legacy of the Düsseldorf School been helpful to your current and prior successes?",
+    "<answer>": "Kunstakademie Düsseldorf is where Bernd and Hilla Becher led a class (just like Gursky today) and established what became the so-called Becher or Düsseldorf Photo School. In their class were artists like Laurenz Berges, Andreas Gursky, Candida Höfer, Axel Hütte, Thomas Ruff, Jörg Sasse, Thomas Struth, so it is obviously one of the best places to study if your work has anything to do with photography. The exchange with them is very frequent, not only in the academy but also in daily life as well.",
+    "topics": ["art school", "fellowship", "artistic idea", "current work"]
+  },
+  {
+    "ID": "18",
+    "question": "With your \"heads\" series, what were you thinking about and what were you trying to express with those images? You also took these photos with your iPhone. How did that experience change and influence the images?",
+    "<answer>": "The idea of the series came up when I had new identification photos made for my passport: how little character and emotion can you express with your face to get the right biometric passport picture? Standardization is a big topic in our society. With this idea in mind I observed the mannequins all over the city without eyes, noses, and mouths. I started to take their \"portrait\" to find out the line between abstract form and head. The iPhone has become a natural part of our daily life, so for me it makes sense to use this camera now.",
+    "topics": ["inspiration", "artistic idea", "series", "philosophy", "production", "medium", "topics of work"]
+  },
+  {
+    "ID": "19",
+    "question": "How did \"heads\" lead you to the \"Avatar\" series? Did it grow organically from \"heads\"?",
+    "<answer>": "The heads series was about trying to find a personalty in a form in some way. This filling of a form with a personality led me to think about the digital personality every one of us builds up by using Facebook, Twitter, Instagram etc. I asked myself: what do these avatars have to do with our real personalities?",
+    "topics": ["topics of work", "series", "artistic idea", "inspiration", "philosophy"]
+  },
+  {
+    "ID": "20",
+    "question": "What kind of camera did you use to make \"Avatar\"?",
+    "<answer>": "The photographs were also taken by my iPhone.",
+    "topics": ["production", "medium", "series"]
+  },
+  {
+    "ID": "21",
+    "question": "The \"heads\" seem to gender-neutral, whereas in \"Avatar\" there are some markers of gender, could you expand on that? With \"Avatar\" are you trying to express issues about gender? Or bigger themes?",
+    "<answer>": "No, I‘m not. For me, the different levels of communication are the main topic of the series. The question has always been, is digital communication something different than a real, face-to-face communication between human beings?",
+    "topics": ["topics of work", "artistic idea", "social context", "philosophy", "series"]
+  },
+  {
+    "ID": "22",
+    "question": "There is a long history in photography of representing mannequins, puppets, or dolls—are you referencing other artists' works? Think of the Surrealists, Vanessa Beecroft, Laurie Simmons, Hans Bellmer, etc.",
+    "<answer>": "Of course, I am aware of these artists, the use of mannequins, and their relevance in art history. Bellmer and Cindy Sherman have been especially important for my series. But the most important influence is Oskar Schlemmer and his theories about the ideal human in space.",
+    "topics": ["inspiration", "artistic idea", "historical context", "series"]
+  },
+  {
+    "ID": "23",
+    "question": "In a few sentences please tell us where you see your work heading?",
+    "<answer>": "I see my work more and more questioning the world and developing into a bigger statement like a complete work subdivided into series and pieces as a part of the whole thing.",
+    "topics": ["topics of work", "art work description", "plan", "series", "philosophy"]
+  },
+  {
+    "ID": "24",
+    "question": "Can you tell us a little bit about the series? How did you start to work with mannequins?",
+    "<answer>": "I started working with mannequins as a form of placeholder for people and also as a visualization of avatars. Since I have dealt a lot with digital communication in my work I needed a visual form to represent my questions and topics in a visual way. The series are for me different studies, partly situational, which refer to each other in different ways and are linked to each other.",
+    "topics": ["series", "medium", "artistic idea", "philosophy", "production"]
+  },
+  {
+    "ID": "25",
+    "question": "In Not Lost in You, how did you choose the special pattern clothes for those moving bodies to wear?",
+    "<answer>": "Since there is a performative act in the video series not lost in you and one person acts with the avatar, but I consider the basic feeling and question of the work to be something general that everyone knows, I also wanted to abstract and generalize the human body from the person acting in the video, to achieve this I chose the ornamental Nylon fabrics.",
+    "topics": ["artistic idea", "production", "medium", "topics of work"]
+  },
+  {
+    "ID": "26",
+    "question": "As your work often deals with communication and technology, do you have any particular observation about social media in the past few months of quarantine?",
+    "<answer>": "I believe that digital communication was a great relief at that time as a bridging factor and for me time has proven once again that the purely digital is not a possibility for human interaction. The human being needs the real counterpart and the direct contact.",
+    "topics": ["social context", "sociology", "psychology", "philosophy"]
+  },
+  {
+    "ID": "27",
+    "question": "What are you working on now?",
+    "<answer>": "At the moment I'm trying to find further boundaries, both in terms of media and content, and to ask the questions about the real and the artificial in our world even more animalistically. That's exactly how I am reminding and making aware of topics that occupy me and that I am working on.",
+    "topics": ["current work", "topics of work", "artistic idea", "boundaries of human", "artificial intelligence"]
+  },
+  {
+    "ID": "28",
+    "question": "You work mainly with manikins, distorting and abstracting the human body. Can you explain how your work deals with closeness and intimacy?",
+    "<answer>": "I am questioning topics like closeness and intimacy by focusing on the digital realm as it sets the terms for development and changes our way of thinking and behaving. I am working mostly with mannequins for two reasons. First because the questions I am dealing with are general rather than personalized. The other reason I am working with mannequins is that I am interested in avatars, as the digital identity of a human being. To visualize the interaction between avatars, I needed something closely related to the human body yet that is also abstract and far removed from it.",
+    "topics": ["artistic idea", "medium", "production", "human body", "philosophy", "topics of work"]
+  },
+  {
+    "ID": "29",
+    "question": "The smartphone is your main choice of photographic apparatus. To what extent does this tool shape your artistic process?",
+    "<answer>": "With the issues of how our daily lives and society more generally is affected by technology, the iPhone was the perfect and most consequent tool to work with. Questioning and reflecting on digital communication and our digital identities, the smartphone is the primary place where these process and interactions happen. It therefore makes sense to me to work with the smartphone also as a tool, since a lot of the questions I work with are connected to it.",
+    "topics": ["inspiration", "artistic idea", "medium", "production", "topics of work"]
+  },
+  {
+    "ID": "30",
+    "question": "In what way would you say your work discusses identity and humanity?",
+    "<answer>": "I am discussing where human beings find their self in the digital and real world. Today it is obvious that the digital realm changes our way of dealing with each other, in both positive and negative ways. Identity and Humanity are two quite contested frames. They are explored, also in an artistic manner. To me, as an artist, it is important to include a contemporary feeling of these terms in my work.",
+    "topics": ["social context", "sociology", "topics of work", "inspiration", "philosophy"]
+  },
+  {
+    "ID": "31",
+    "question": "One of your recent projects is the development of a Virtual Reality (VR) piece including an animated artificial intelligence. How did this involvement with VR transpire for you, and what are the politics implied in this work?",
+    "<answer>": "This work grew out of the question of whether a conversation is a real conversation when you have it with a bot, and not with a human being. Today we are routinely talking to avatars, bots and human beings. What is the difference, in terms of quality of the conversation, realness, importance and exchange? In the VR-work Aporias (2019), I wanted to find out what the essence of a conversation with bots is, so I had to meet them to talk to them. To come as close as possible to a real meeting, VR was to me the logical choice of medium for creating a situation where I could meet and interact with AIs.",
+    "topics": ["social context", "sociology", "philosophy", "artistic idea", "inspiration", "topics of work", "political context"]
+  },
+  {
+    "ID": "32",
+    "question": "Both the use of manikins and the manner in which the borders between painting and photography are blurred in your work, evoke a number of art historical references. Are there any specific periods or artists that have inspired you in your aesthetic search?",
+    "<answer>": "I think there are several artist inspiring me, Bruce Nauman, is very important for me, as Sigmar Polke, Hans Bellmer, but also Leonardo Da Vinci, Andreas Gursky, Wolfgang Tillmans, Oskar Schlemmer, Barbara Kruger.",
+    "topics": ["inspiration", "historical context", "art school", "artistic idea", "art work description"]
+  },
+  {
+    "ID": "33",
+    "question": "Why photography?",
+    "<answer>": "Because I like that the picture is generated from the world we are existing in. From this basis of that “real” photograph I am working through my questions, and transform the image into that question. As I am working with questions and issues related to our current everyday life, I always need to have one foot in this daily world.",
+    "topics": ["medium", "inspiration", "philosophy", "artistic idea", "production", "topics of work"]
+  }
+]
