@@ -18,16 +18,100 @@ pre-installed default chat- bot component of the avatar.
 3. In the Voice Assimilation module, either the matched answer from (1) or an extended answer from (2) is passed to 
    the text-to-speech component; a new voice model is trained on recordings of Louisa Clement’s voice and replaces 
    the default voice of the chatbot.
+   
+Within the Answer Extension module, there are 2 steps: (1) a BERT-based classifier to determine whether an existing Q-A
+pair can be extended and (2) an Answer Extension module. The models we experimented with are tf-idf retrieval-based
+model, GPT-2, and T5 for paraphrasing the outputs from either the tf-idf or GPT-2 model for increased variability.
 
 ![Project Pipeline](/img/1_pipeline.png)
 
+The integration of tasks within this art project predefines some of the main requirements to the Answer Extension 
+module. In addition, the key challenges of NLG in close-domain conversational dialogue systems also apply to our module 
+considerations. The key requirements of our Answer Extension module include:
+
+1. The extension should only contain factually correct information.
+2. The extension should be relevant to Louisa Clement and not contain details she cannot know or too personal details she is not likely to share.
+3. The extension should preserve Louisa Clement’s linguistic style.
+4. The extension should lend itself to natural and informal human communication.
+5. The extended answers to the same question should show sufficient variations and not be identically verbatim with repetitions.
+   
+Based on these requirements, we can formulate two general criteria extendable questions should fulfill: 
+(1) the topics of the questions should be covered by the knowledge base to the task to en- sure the correctness and 
+relevance of the content of the generated extension; (2) the question and answer should inherently allow for a longer 
+answer. This is necessary to guarantee that the long answer sounds natural and fits into the conversation setting.
+
+## Data
+
+The corpora/datasets used in our project can be found in the `/data` directory. The source corpora for the *Extension
+Corpus* are in `/emails` and `/interviews` directories.
+
+The outputs from the generator models are in the `/outputs` directory.
+
 ## Extendability
+
+We trained a simple BERT-based classifier to determine if a Q-A pair is extenable. We use the annotated part of the 
+question-answer dataset, which shuffled and randomly split into train and test set (90%/10%). 
+The question-answer pairs are then encoded using Sentence-BERT (Reimers and Gurevych, 2019) to be able to employ the 
+embedded sentence meaning in the classification process. 
+
+As summarized in the figure below, the classifier itself consists of a two-layer neural network with sigmoid 
+non-linearities. We use BCEloss; the classifier is trained for 100 epochs. The implementation of this module can be 
+found in the `/classifier` directory.
+
+The question-answer dataset is a small QA corpus consisting of 1000 questions and 1845 individual answers; 1120 of which 
+are annotated for the purpose of training the classifier (see Table 1 below). The questions have been curated and answered by Louisa Clement as an addition to the chatbot’s default 
+QA component. The corpus covers different questions a visitor might ask from a variety of topics: from interests and 
+biographical data, to ‘stereo- typical chatbot questions’, to more detailed questions on the artist’s works and 
+inspiration. In the pre-processing steps, the corpus is spell-checked and re-formatted as 1845 question-answer pairs.
+Some extendable and non-extendable QA pairs are provided in Table 2.
 
 ![Extendability](/img/2_classifier.png)
 
 ## Answer Extension
 
+To generate a possible answer extension, we experiment with two different approaches: **a retrieval-based tf-idf model** 
+and **a neural GPT-2 model**. Both models take the question-answer pair as a prompt. The goal is to generate an answer 
+extension to the extendable short answer that gives additional information to the question and preserves Louisa 
+Clement’s style.
+
+As a baseline, we employ a retrieval-based tf-idf model (Salton and Buckley, 1988). This model retrieves a paragraph 
+from the Extension Corpus that is consistent with a question and a short answer. We use the paragraphs from the 
+*Extension Corpus* as a retrieval base; the model is limited to this corpus and does not generate new text.
+
+Each paragraph in the *Extension Corpus* has been annotated with its main topic words that generalize the content of 
+the paragraph. Often they are not expressed explicitly in the paragraph and are introduced by us based on our 
+understanding of the paragraph. As shown in Table 3 below, the *Extension Corpus* is composed of three types
+of data provided to us by Louisa Clement:
+
+1. *Professional emails* written by Louisa Clement in which she describes the organization of exhibitions, exchanges 
+   ideas with other artists, describe her works, talks about her inspiration etc.
+2. *Interviews*, in which the artist describes the background of her work, as well as her development as an artist in 
+   her own words.
+3. *A series of articles* written by critics and journalists about the various works of Louisa Clement, where they 
+   place Louisa Clement’s work in the general historical and artistic context and analyze her work.
+   
+In the original form, this corpus contains 1596 sentences; 1156 from the emails, 330 from the articles, and 110 from 
+the interviews.
+
 ![AnswerExtension](/img/3_ae.png)
+
+Prior to pre-processing, we identify four main content topics covered by this corpus:
+
+* artwork/exhibition production and description
+* sociopolitical background/inspiration
+* artistic ideas/concepts
+* artistic formation and background
+
+The implementation of the various models we experimented with is in the `models` directory. The pre-processing steps
+perform the tasks listed in Table 3 above.
+
+For our task, the *GPT2LMHeadModel* is fine-tuned on the *Extension Corpus* described above. The extension dataset is 
+loaded as a *datasets.Dataset* object. After that we run *GPT2Tokenizer* on the Dataset object. The dataset is split 
+into train, dev and testsets.
+
+Out of the 364 paragraphs in the extension dataset, 80 % data (292 paragraphs) is assigned to the train set, and 20 % 
+are equally divided between dev and test sets (36 paragraphs each). We let the training run for 30 epochs, the final 
+eval loss is 4.478, the perplexity is 88.0843.
 
 ## Evaluation 
 
@@ -62,10 +146,40 @@ Results are saved in the `auto_eval_scores` directory. Filenames following this 
 
 ### Human Evaluation
 
+We solicited human evaluators to judge the quality of the extensions. To this end, we randomly select 30 question-answer 
+pairs from the *gold-extension* corpus. We then select the best-scoring model from the automatic evaluation --- 
+the tf-idf model --- and its paraphrased counterpart --- tf-idf + T5 --- as first and second condition, and generate 
+extensions for the 30 samples. We also include our gold extensions as a third condition for comparison.
 
+The extensions are shuffled and randomly distributed across three survey forms (A, B and C), such that each question-
+answer pair appears once per survey form and every form contains extensions from each of the three conditions. 
+Evaluators, who are blinded from the sample selection process, are asked to judge the quality of the samples with 
+respect to 4 different criteria (as described in Table 5 above), on a scale from 1-5; 5 being the ideal score and 1 
+the least desirable.
+
+The script to randonly sample and shuffle the question-answer pairs for the human evaluation is `human_eval_samples.py`.
+The sample ID's for the survey forms A, B, C are in the `/evaluation` directory. The questions and shuffle answer 
+extensions for the 3 forms (A, B, C) are in the `/human_eval_files` directory.
 
 ## Results
 ![Results](/img/5_results.png)
+
+According to the BLEURT scores in Table 7 all models (tf-idf, tf-idf+T5, and GPT-2) score close to -1. Running gold 
+against gold gives a relative optimal score of 0.82 for this task. tf-idf extensions have the highest scores (-0.99).
+
+Human evaluators rate the gold extensions higher than our models. *Grammaticality* and *fluency* ratings are higher than
+*coherence* ratings, *appropriateness* is rated lowest. Figure 3 shows the correlation between criterion and score. 
+Although human evaluators rate extensions from tf-idf and T5 model consistently lower across all criteria, 
+the differences in mean rating scores for *grammaticality*, *fluency*, and *coherence* are not statistically significant. 
+The only statistically significant difference is in the mean rating scores of the *appropriateness* criterion.
+
+As demonstrated by some examples shown here in Table 8, we notice that the models show the following types of errors:
+
+* grammatical mistakes
+* misinterpretation of semantic meanings: semantic ambiguity leads to the wrong use of certain words
+* topic-inappropriateness: the extension does not cover the same topic as the original question and answer. 
+  
+This is the case for all three models and is in accordance with the results from human evaluation.
 
 ## Future Work
 
@@ -138,7 +252,6 @@ Dirichlet Allocation) for topic modeling.
 `style_transfer_preprocess.py` removes punctuations and re-format foreign punctuation marks.
 
 Data files in our experiments are in the `/data` directory.
-
 
 # References
 
