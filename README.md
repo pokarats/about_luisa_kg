@@ -204,7 +204,7 @@ Naive approach to extract concepts for building the knowledge base from articles
 After pre-processing, resultant corpus consists of 350 sentences.
 
 ### Pre-processing Scripts
-- `preprocess.py` is used for preprocessing text for LDA Topic Modeling
+- `preprocess_for_LDA.py` is used for preprocessing text for LDA Topic Modeling
 - `preprocess_for_sent.py` is used for preprocessing text into sentences for KG generation
 
 ### Steps
@@ -249,7 +249,7 @@ Dirichlet Allocation) for topic modeling.
 3. Data is too small to rely _only_ on this for knowledge base generation, but ok for initial analysis
 
 ## Preprocessing for Style Adaptation
-`style_transfer_preprocess.py` removes punctuations and re-format foreign punctuation marks.
+`preprocess_style-transfer.py` removes punctuations and re-format foreign punctuation marks.
 
 Data files in our experiments are in the `/data` directory.
 
