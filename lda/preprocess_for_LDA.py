@@ -3,7 +3,7 @@ import nltk
 import re
 
 """
-Pre-process manually edited text file (e.g. luisa_text.txt, luisa_text_optimized.txt) for LDA, getting ride of
+Pre-process manually edited text file (e.g. articles.txt, articles_optimized.txt) for LDA, getting ride of
 punctuations and optionally lemmatize and remove stopwords (English)
 
 output: preprocessed_<input file name>.txt
