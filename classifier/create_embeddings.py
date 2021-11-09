@@ -25,7 +25,7 @@ def read_data():
     """
     Reads a given file and turns it into a list of (data, annotation) tuples.
     """
-    with open(f"{args.data_path}{args.file}.txt", encoding="UTF-8") as f:
+    with open(f"{args.data_path}{args.file}", encoding="UTF-8") as f:
         # create list of [qa-pair, ann] pairs
         qa_pairs = [datapoint.strip().split('#') for datapoint in f.readlines()]
         try:

@@ -3,14 +3,32 @@ import torch
 import torch.nn as nn
 import pickle
 import random
+import argparse
 
-with open("data/classifier/annotated_qa_pairs.pickle", "rb") as fread:
+
+def cla_parser():
+    """
+    Parse commandline arguments
+
+    :return: parsed args
+    """
+    parser = argparse.ArgumentParser(description='Create Embeddings for Data')
+    parser.add_argument('-i', '--input_file', default='annotated_qa_pairs.pickle', help='Input file with pickled training data. Default: annotated_qa_pairs.pickle')
+    parser.add_argument('-o', '--output_file', default='classifier.pt', help='Output model name. Default: classifier.pt')
+    parser.add_argument('-d', '--data_path', default='data/classifier/', help='Path to the data folder. Default: data/classifier/')
+    parser.add_argument('-m', '--model_path', default='classifier/models/', help='Path to the data folder. Default: classifier/models')
+    
+    return parser.parse_args()
+
+
+args = cla_parser()
+with open(f"{args.data_path}{args.input_file}", "rb") as fread:
     reader = pickle.Unpickler(fread)
     data = reader.load()
 
 
 class Model(nn.Module):
-    def __init__(self, batchSize=99999, learningRate=0.001):
+    def __init__(self, batchSize=1000, learningRate=0.01):
         super().__init__()
 
         self.layers = [
@@ -53,6 +71,7 @@ class Model(nn.Module):
 
                 hits = 0
                 hitsTP = 0
+                hitsFN = 0
                 hitsFP = 0
                 totalP = 0
                 threshold = 0.5
@@ -63,14 +82,16 @@ class Model(nn.Module):
                         hits += 1
                     if (output >= threshold) and (true_class == 1):
                         hitsTP += 1
+                    if (output <= threshold) and (true_class == 1):
+                        hitsFN += 1
                     if (output >= threshold) and (true_class == 0):
                         hitsFP += 1
                     if true_class == 1:
                         totalP += 1
 
                 precision = 0 if hitsFP == 0 and hitsTP == 0 else hitsTP / (hitsTP + hitsFP)
-                print(f"epoch {epoch}, accuracy {hits / len(dataDev) * 100:.2f}%, Precision {precision * 100:.2f}%")
+                print(f"epoch {epoch}, TP {hitsTP} FP {hitsFP} FN {hitsFN} accuracy {hits / len(dataDev) * 100:.2f}%, Precision {precision * 100:.2f}%")
 
 model = Model()
-model.trainModel(data, 1000)
-torch.save(model, "classifier.pt")
+model.trainModel(data, 300)
+torch.save(model, f"{args.model_path}{args.output_file}")
