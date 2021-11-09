@@ -12,10 +12,10 @@ def cla_parser():
     :return: parsed args
     """
     parser = argparse.ArgumentParser(description='Create Embeddings for Data')
-    parser.add_argument('-m', '--pretrained_model', default='sentence-transformers/multi-qa-mpnet-base-dot-v1', help='Pretrained bert model.')
+    parser.add_argument('-m', '--pretrained_model', default='sentence-transformers/multi-qa-mpnet-base-dot-v1', help='Pretrained bert model. Default: sentence-transformers/multi-qa-mpnet-base-dot-v1')
     # this is the model used in the report, however, it is deprecated and the results are a lot better with the new model
     # parser.add_argument('-m', '--pretrained_model', default='sentence-transformers/bert-base-nli-cls-token', help='Pretrained bert model.')
-    parser.add_argument('-f', '--file', help='File with annotated question-answer pairs; one pair per line split with <answer>')
+    parser.add_argument('-f', '--file', help='File with preprocessed question-answer pairs; one pair per line split with <answer>')
     parser.add_argument('-d', '--data_path', default='data/classifier/', help='Path to the data folder. Default: data/classifier/')
     
     return parser.parse_args()
@@ -47,7 +47,6 @@ def encode():
         encoded_qa_pair = model.encode(qa_pair)
         # The np.float32 is necessary so that the annotation has the right format for training. Without this, I got an error in training.
         encoded_data.append((torch.from_numpy(encoded_qa_pair), np.float32(ann)))
-        # encoded_data.append((encoded_qa_pair, np.float32(ann)))
     return encoded_data
 
 

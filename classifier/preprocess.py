@@ -9,7 +9,7 @@ def cla_parser():
     :return: parsed args
     """
     parser = argparse.ArgumentParser(description='Preprocess Classifier Training Data')
-    parser.add_argument('-m', '--unannotated_mode', type=bool, default=False, help='Preprocess annotated or unannotated data.')
+    parser.add_argument('--unannotated', action='store_true', help='Preprocess annotated or unannotated data.')
     parser.add_argument('-u', '--unann_file', default='qa_data.txt', help='File with question-answer pairs; one pair per line split with <answer>')
     parser.add_argument('-a', '--ann_file', default='qa_data_annotated.csv', help='File with annotated qa-pairs. Form: When were you born? <answer> 1999 [<answer> ...]#0')
     parser.add_argument('-p', '--data_path', default='data/classifier/', help='Path to the data folder. Default: data/classifier/')

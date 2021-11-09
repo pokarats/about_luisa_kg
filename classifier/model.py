@@ -3,18 +3,26 @@ import torch
 import torch.nn as nn
 import pickle
 import random
+import argparse
 
-with open("reponses_encoded.pickle_tmp", "rb") as fread:
-    reader = pickle.Unpickler(fread)
-    data = reader.load()
 
-with open("other_reponses_encoded.pickle_tmp", "rb") as fread:
-    other_reader = pickle.Unpickler(fread)
-    other_data = other_reader.load()
+def cla_parser():
+    """
+    Parse commandline arguments
+
+    :return: parsed args
+    """
+    parser = argparse.ArgumentParser(description='Train neural classifier and predict annotations')
+    parser.add_argument('--predict', action='store_true', help='mode for predicting annotations for unannotated file')
+    parser.add_argument('-i', '--input_file', default='annotated_qa_pairs', help='Input file. In train mode pickled training data. In predict mode: name of pickle, original text file and output file. Default: annotated_qa_pairs')
+    parser.add_argument('-m', '--model_path', default='classifier/models/classifier.pt', help='Output model name. Default: classifier/models/classifier.pt')
+    parser.add_argument('-d', '--data_path', default='data/classifier/', help='Path to the data folder. Default: data/classifier/')
+    
+    return parser.parse_args()
 
 
 class Model(nn.Module):
-    def __init__(self, batchSize=99999, learningRate=0.001):
+    def __init__(self, batchSize=1000, learningRate=0.01):
         super().__init__()
 
         self.layers = [
@@ -57,6 +65,7 @@ class Model(nn.Module):
 
                 hits = 0
                 hitsTP = 0
+                hitsFN = 0
                 hitsFP = 0
                 totalP = 0
                 threshold = 0.5
@@ -67,17 +76,19 @@ class Model(nn.Module):
                         hits += 1
                     if (output >= threshold) and (true_class == 1):
                         hitsTP += 1
+                    if (output <= threshold) and (true_class == 1):
+                        hitsFN += 1
                     if (output >= threshold) and (true_class == 0):
                         hitsFP += 1
                     if true_class == 1:
                         totalP += 1
 
                 precision = 0 if hitsFP == 0 and hitsTP == 0 else hitsTP / (hitsTP + hitsFP)
-                print(f"epoch {epoch}, accuracy {hits / len(dataDev) * 100:.2f}%, Precision {precision * 100:.2f}%")
-            
-    def annotate(self, other_data):
-        with open("other_responses.txt", "r") as fread:
-            with open("other_responses_ann_2.txt", "w") as fwrite:
+                print(f"epoch {epoch}, TP {hitsTP} FP {hitsFP} FN {hitsFN} accuracy {hits / len(dataDev) * 100:.2f}%, Precision {precision * 100:.2f}%")
+
+    def predict(self, args, other_data):
+        with open(f"{args.data_path}{args.input_file}.txt") as fread:
+            with open(f"{args.data_path}{args.input_file}_predictions.txt", "w") as fwrite:
                 self.train(False)
                 threshold = 0.5
                 for sample, dummy_annotation in other_data:
@@ -87,11 +98,20 @@ class Model(nn.Module):
                         ann = "".join((fread.readline()[:-2], "1", "\n"))
                     else:
                         ann = "".join((fread.readline()[:-2], "0", "\n"))
-                    print(ann)
-                    fwrite.write(ann)
+                    fwrite.write(ann)    
 
+def main():
+    args = cla_parser()
+    with open(f"{args.data_path}{args.input_file}.pickle", "rb") as fread:
+        reader = pickle.Unpickler(fread)
+        data = reader.load()
+    if args.predict:
+        model = torch.load(args.model_path)
+        model.predict(args, data)
+    else:
+        model = Model()
+        model.trainModel(data, 300)
+        torch.save(model, args.model_path)
 
-model = Model()
-model.trainModel(data, 1000)
-model.annotate(other_data)
-torch.save(model, "classifier_model.pt")
+if __name__ == '__main__':
+    main()
