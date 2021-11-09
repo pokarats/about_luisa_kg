@@ -4,7 +4,7 @@ import torch.nn as nn
 import pickle
 import random
 
-with open("reponses_encoded.pickle_tmp", "rb") as fread:
+with open("data/classifier/annotated_qa_pairs.pickle", "rb") as fread:
     reader = pickle.Unpickler(fread)
     data = reader.load()
 
@@ -73,4 +73,4 @@ class Model(nn.Module):
 
 model = Model()
 model.trainModel(data, 1000)
-torch.save(model, "classifier_model.pt")
+torch.save(model, "classifier.pt")
