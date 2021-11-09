@@ -13,18 +13,12 @@ def cla_parser():
     :return: parsed args
     """
     parser = argparse.ArgumentParser(description='Create Embeddings for Data')
-    parser.add_argument('-i', '--input_file', default='annotated_qa_pairs.pickle', help='Input file with pickled training data. Default: annotated_qa_pairs.pickle')
-    parser.add_argument('-o', '--output_file', default='classifier.pt', help='Output model name. Default: classifier.pt')
+    parser.add_argument('--predict', action='store_true', help='mode for predicting annotations for unannotated file')
+    parser.add_argument('-i', '--input_file', default='annotated_qa_pairs', help='Input file. In train mode pickled training data. In predict mode: name of pickle, original text file and output file. Default: annotated_qa_pairs')
+    parser.add_argument('-m', '--model_path', default='classifier/models/classifier.pt', help='Output model name. Default: classifier/models/classifier.pt')
     parser.add_argument('-d', '--data_path', default='data/classifier/', help='Path to the data folder. Default: data/classifier/')
-    parser.add_argument('-m', '--model_path', default='classifier/models/', help='Path to the data folder. Default: classifier/models')
     
     return parser.parse_args()
-
-
-args = cla_parser()
-with open(f"{args.data_path}{args.input_file}", "rb") as fread:
-    reader = pickle.Unpickler(fread)
-    data = reader.load()
 
 
 class Model(nn.Module):
@@ -92,6 +86,32 @@ class Model(nn.Module):
                 precision = 0 if hitsFP == 0 and hitsTP == 0 else hitsTP / (hitsTP + hitsFP)
                 print(f"epoch {epoch}, TP {hitsTP} FP {hitsFP} FN {hitsFN} accuracy {hits / len(dataDev) * 100:.2f}%, Precision {precision * 100:.2f}%")
 
-model = Model()
-model.trainModel(data, 300)
-torch.save(model, f"{args.model_path}{args.output_file}")
+    def predict(self, args, other_data):
+        with open(f"{args.data_path}{args.input_file}.txt") as fread:
+            with open(f"{args.data_path}{args.input_file}_predictions.txt", "w") as fwrite:
+                self.train(False)
+                threshold = 0.5
+                for sample, dummy_annotation in other_data:
+                    with torch.no_grad():
+                        output = self(sample)
+                    if output >= threshold:
+                        ann = "".join((fread.readline()[:-2], "1", "\n"))
+                    else:
+                        ann = "".join((fread.readline()[:-2], "0", "\n"))
+                    fwrite.write(ann)    
+
+def main():
+    args = cla_parser()
+    with open(f"{args.data_path}{args.input_file}.pickle", "rb") as fread:
+        reader = pickle.Unpickler(fread)
+        data = reader.load()
+    if args.predict:
+        model = torch.load(args.model_path)
+        model.predict(args, data)
+    else:
+        model = Model()
+        model.trainModel(data, 300)
+        torch.save(model, args.model_path)
+
+if __name__ == '__main__':
+    main()
