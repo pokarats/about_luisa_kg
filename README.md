@@ -191,11 +191,23 @@ With more time for data annotation and model implementation, we are interested i
   
 * Further fine-tuning of the T5 model on Louisa’s corpus for more effective paraphrasing
 
-# Preliminary Experiments and Pre-Processing
+# Running the code
 
 Below are steps we explored that may or may not have ended up in the final work of the project.
 
-## Knowledge Graph About Luisa's Works
+## Classifier
+
+You can find information on how to run the classifier in the classifier README in the corresponding folder. Data needed to run the classifier can be found in the `data` directory.
+
+## Extension
+
+Information on how to run the respective extension models can be found in the folders in `extension`.
+
+## Evaluation
+
+You can find information on how to run our evaluation in the README in the corresponding folder.
+
+## Preliminary Experiments: Knowledge Graph About Luisa's Works
 
 Naive approach to extract concepts for building the knowledge base from articles about Luisa's work.
 
@@ -230,7 +242,7 @@ The following steps are implemented in `kb_extraction.py` and `kb_from_json.py`.
 ### Node
 1. Each Node: `subject(source) - object(target) - relation(edge)`
 
-## Topic Modeling
+## Preliminary Experiments: Topic Modeling
 
 Another approach to quickly grasp the prevalent concepts in the articles about Luisa's work is by using LDA (Latent
 Dirichlet Allocation) for topic modeling.

@@ -8,16 +8,25 @@ Accuracy >90%; Precision varies between 60%-100%. The classifier has a very smal
 
 `models` contains some pretrained models. The `classifier_old_model` was used for the report.
 
+## Requirements
+
+To run the modules you need an environment with the following packages installed:
+
+- torch
+- TensorFlow
+- sentence-transformers
+- numpy
+
 ## Classification pipeline
 
-1. Preprocessing: preprocess.py 
+1. Preprocessing: preprocess_classifier.py 
 2. Encoding: create_embeddings.py 
 3. Training: model.py 
 4. Predicting: model.py --predict 
 
 ### The modules
 
-#### preprocessing.py
+#### preprocess_classifier.py
 
 ```
 Preprocess Classifier Training Data
