@@ -4,6 +4,14 @@ the overall pipeline. We receive as an input a question-answer pair retreived by
 Q-A Chatbot module, then extend and paraphrase the answer if appropriate.
 '''
 
+'''
+Please install the following packages before running the script: 
+-nltk
+-sklearn
+-transformers==2.8.0
+-torch
+'''
+
 from extension.tf_idf import tf_idf
 from extension.t5_model_paraphrase import t5_model_paraphrase
 
