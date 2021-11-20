@@ -1,4 +1,0 @@
-nltk
-sklearn
-transformers==2.8.0
-torch
