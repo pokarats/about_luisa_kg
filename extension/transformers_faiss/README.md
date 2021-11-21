@@ -9,3 +9,15 @@ The following packages should be installed to run the models:
 - folium==0.2.1
 - streamlit==0.62.0
 - -e .
+### Directory structure
+```
+transformers_faiss
+├── data
+│   ├── corpus_gpt2_final.txt
+│   └── qa.txt
+├── README.md
+├── requirements.txt
+├── results
+│   └── transformer_faiss_output.txt
+└── transformer_faiss_louisa.ipynb
+```
