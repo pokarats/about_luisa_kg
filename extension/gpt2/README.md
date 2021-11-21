@@ -20,4 +20,4 @@ gpt2
     └───gpt2_output.txt
 ```
    
-Files in the data folder are required to fine-tune the GPT2 model on the Louisa extension data and replicate the results.
+Files in the `data` folder are required to fine-tune the GPT2 model on the Louisa extension data and replicate the results.
