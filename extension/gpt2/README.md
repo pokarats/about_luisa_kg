@@ -1,9 +1,11 @@
 ### Requirements
-- transformers
+To run the model you need an environment with the following packages installed:- transformers
 - datasets
 - torch
 - sentencepiece
 - pyyaml
+Alternatively, install the packages by running this command: <code> #pip install -U transformers datasets torch sentencepiece pyyaml
+</code>
 ### Directory structure
 ```
 gpt2
