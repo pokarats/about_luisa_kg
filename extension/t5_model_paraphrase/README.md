@@ -13,7 +13,6 @@ t5_model_paraphrase
 └───requirements.txt
 └───results
     └───gpt2_t5_paraphrase.txt
-    └───t5_paraphrase_new.txt
     └───t5_paraphrase.txt
 └───t5_model_paraphrase.py
 ```
