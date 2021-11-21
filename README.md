@@ -102,7 +102,7 @@ Prior to pre-processing, we identify four main content topics covered by this co
 * artistic ideas/concepts
 * artistic formation and background
 
-The implementation of the various models we experimented with is in the `models` directory. The pre-processing steps
+The implementation of the various models we experimented with is in the `extension` directory. The pre-processing steps
 perform the tasks listed in Table 3 above.
 
 For our task, the *GPT2LMHeadModel* is fine-tuned on the *Extension Corpus* described above. The extension dataset is 
