@@ -4,8 +4,7 @@ To run the model you need an environment with the following packages installed:-
 - torch
 - sentencepiece
 - pyyaml
-Alternatively, install the packages by running this command: <code> pip install -U transformers datasets torch sentencepiece pyyaml
-</code>
+Alternatively, install the packages by running this command: `pip install -U transformers datasets torch sentencepiece pyyaml`
 ### Directory structure
 ```
 gpt2
