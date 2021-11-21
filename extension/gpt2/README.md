@@ -13,7 +13,7 @@ gpt2
 └───data
 │   └───corpus_gpt2_final.txt
 │   └───qa.txt  
-│
+│   └───converter_json_to_corpus_gpt_without_topics.py 
 └───gpt2_model_louisa.ipynb
 └───gpt2_model_louisa.py
 └───README.md
