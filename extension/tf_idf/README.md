@@ -46,7 +46,6 @@ tf_idf
 │   │   └───retrieved_output_no_articles_no_topics
 │   │   └───retrieved_output_with_articles_tf_idf.txt
 └───tf_idf.py
-
 ```
 Files in the `data` folder are required to replicate the results of tf-idf model.
 
