@@ -1,10 +1,10 @@
-####Requirements
+### Requirements
 - transformers
 - datasets
 - torch
 - sentencepiece
 - pyyaml
-####Directory structure
+### Directory structure
 .
 ├── converter_json_to_corpus_gpt_without_topics.py
 ├── data
