@@ -45,7 +45,7 @@ answer. This is necessary to guarantee that the long answer sounds natural and f
 The corpora/datasets used in our project can be found in the `/data` directory. The source corpora for the *Extension
 Corpus* are in `/emails` and `/interviews` directories.
 
-The outputs from the generator models are in the `/results` directory of each model in `/extension` directory.
+The outputs from the generator models are in the `/results` directory of each model in the`/extension` directory.
 
 ## Extendability
 
