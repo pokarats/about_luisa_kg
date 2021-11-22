@@ -45,7 +45,7 @@ answer. This is necessary to guarantee that the long answer sounds natural and f
 The corpora/datasets used in our project can be found in the `/data` directory. The source corpora for the *Extension
 Corpus* are in `/emails` and `/interviews` directories.
 
-The outputs from the generator models are in the `/outputs` directory.
+The outputs from the generator models are in the `/results` directory of each model.
 
 ## Extendability
 
@@ -72,7 +72,7 @@ Some extendable and non-extendable QA pairs are provided in Table 2.
 To generate a possible answer extension, we experiment with two different approaches: **a retrieval-based tf-idf model** 
 and **a neural GPT-2 model**. Both models take the question-answer pair as a prompt. The goal is to generate an answer 
 extension to the extendable short answer that gives additional information to the question and preserves Louisa 
-Clement’s style.
+Clement’s style. To further explore the questions of variation and style-adaptation, we also experiment with a T5 model to paraphrase the extension.
 
 As a baseline, we employ a retrieval-based tf-idf model (Salton and Buckley, 1988). This model retrieves a paragraph 
 from the Extension Corpus that is consistent with a question and a short answer. We use the paragraphs from the 
@@ -107,11 +107,11 @@ perform the tasks listed in Table 3 above.
 
 For our task, the *GPT2LMHeadModel* is fine-tuned on the *Extension Corpus* described above. The extension dataset is 
 loaded as a *datasets.Dataset* object. After that we run *GPT2Tokenizer* on the Dataset object. The dataset is split 
-into train, dev and testsets.
-
-Out of the 364 paragraphs in the extension dataset, 80 % data (292 paragraphs) is assigned to the train set, and 20 % 
+into train, dev and testsets. Out of the 364 paragraphs in the extension dataset, 80 % data (292 paragraphs) is assigned to the train set, and 20 % 
 are equally divided between dev and test sets (36 paragraphs each). We let the training run for 30 epochs, the final 
 eval loss is 4.478, the perplexity is 88.0843.
+
+Since one of our goals is to generate a varied answer extension similar to what a human would produce, we additionally apply the T5 model (Raffelet, 2019) fine-tuned for the question paraphras-ing task (Goutham, 2020) on a large-scale Quora question dataset (Iyer et al., 2017) that consists of over 149,000 samples.  This task is linguistically quite similar to ours, since we also need to express the same meaning of question-style phrases with other words.  Paraphrasing is especially relevant for the extensions retrieved with the tf-idf model, as these lack variations for repeated questions. We did not try out different target lengths for the paraphrase, however, this could be a viable tool to further adapt the functionality of the Answer Extension module.
 
 ## Evaluation 
 
